@@ -489,16 +489,16 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR=blue][B][I] PORTO CANAL HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
+<title>[COLOR=blue][B][I] PORTO CANAL [/I][/B][/COLOR]      [COLOR=orange]HD[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL </link>
+<link>http://213.13.26.11:1935/live/portocanal/magellan.m3u8</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR=blue][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=83399&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10</link>
 </link>
 <regex>
 <name>get-ip</name>
