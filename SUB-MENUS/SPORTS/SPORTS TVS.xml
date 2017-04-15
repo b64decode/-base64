@@ -190,43 +190,31 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 3 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://79.124.59.218/ovc/ swfUrl=http://akamaistreaming.com/YjFlMTI0MT/skyjwplayer.flash.swf pageUrl=http://akamaistreaming.com/zn.php?id=29324&width=100%&height=100% playpath=fod3813?ptvskypastv token=d.r.o.p.S.t.r.e.a.m </link>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item>
-
-
-
-
-
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 3 HD[/I] [/COLOR] [COLOR orange][/COLOR]</title>
-<link>http://46.126.71.153:8000/play/a01l </link>
-
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-<fanart></fanart>
+<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR] </title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed/live3-qszlx</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s20.postimg.org/yietclccd/sport_tv3_pt.png</thumbnail>
 </item>
 
-
-
-
-<item> 
-<title>[COLOR blue][B][I] SPORT TV 3 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vNTEuMTUuNTQuMTg0OjgwODEveHl6L3Nwb3J0c3R2My9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+tv+3%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR blue][B][I] SPORT TV 3 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-3-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvNzgvc3BvcnQtdHYtMy1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
-
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+<item>
+<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR] </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/Sport3PT.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s20.postimg.org/yietclccd/sport_tv3_pt.png</thumbnail>
 </item>
 
 
