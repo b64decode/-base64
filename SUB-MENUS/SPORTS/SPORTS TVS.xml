@@ -394,44 +394,54 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 
-
-
 <item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a03l</link>
-
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR] [COLOR orange]HD[/COLOR]</title>
-
-<link>http://77.57.189.132:8000/play/a03m</link>
-
-<link></link>
-
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item> 
-<title>[COLOR blue][B][I] BENFICA TV  [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vMjEyLjQ3LjI0Ny4xNDg6ODA4MS9zdHJlYW16L2JlbmZpY2F0di9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DBenfica+tv%5B%2FCOLOR%5D</jsonrpc>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed/btv-md504</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+	<regex>
+		<name>ip</name>
+		<expres>redirect=(.*)</expres>
+		<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+	</regex>
+	<regex>
+		<name>m3u8</name>
+		<expres>ea \+ "(.*?)"</expres>
+		<page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page>
+		<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+		<referer>http://www.mips.tv</referer>
+		</regex>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR=red](WebTV)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1670.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/56.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/57.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/58.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
 
 
 
 
 <item>
-<title>[COLOR blue] [I]BENFICA TV 1[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/BTV-78</sportsdevil>
 <sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=benficatv</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
