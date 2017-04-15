@@ -1,101 +1,25 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium",[COLOR lime]RTP[/COLOR][/COLOR][/B][/I]
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",RTP 2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3
+http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-<item>
-<title>[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium",RTP INTERNACIONAL
+http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
+#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium",RTP MADEIRA
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-<item>
-<title>[COLOR=lime][B][I] RTP ACORES [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
-<sportsdevil>http://mytvfree2.me/rtp-acores-online</sportsdevil>
-<sportsdevil>  </sportsdevil>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium",RTP MEMÓRIA
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",RTP AÇORES
+http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-
-<item>
-<title>[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
-<sportsdevil></sportsdevil>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
-<sportsdevil>http://mytvfree2.me/rtp-madeira-direto</sportsdevil>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
-<sportsdevil>  </sportsdevil>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
-</item>
-<item> 
-<title>[COLOR lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBpLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DRtp+internacional+v8%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
-<referer>http://www.rtpinternacional.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
-</item>
-
-
-
-
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",RTP ÁFRICA
+http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
