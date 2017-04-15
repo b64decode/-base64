@@ -1,24 +1,4 @@
 
-<item>
-<title>[COLOR=cyan][B][I] SIC NOTICIAS [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR=cyan][B][I] RTP 3 [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=cyan][B][I] RTP 3 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-<referer>http://www.rtp.pt/play/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
-</item>
 
  
 <item>
