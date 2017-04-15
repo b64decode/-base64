@@ -556,4 +556,10 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 
+<item>
+<title>[COLOR=blue][B][I] EUROSPORT 1 PT [/I][/B]   [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sportvgratisdireto.net/index.php?canal=eurosport</sportsdevil>
+<referer>http://www.estadiofutebol.com/</referer>
 
+<thumbnail>http://media2.pl/g/0/52753.jpg</thumbnail> 
+</item>
