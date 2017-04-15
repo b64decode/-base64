@@ -1,16 +1,5 @@
 
 
-<item>
-<title>[COLOR=blue][I] NBA HD [/I][/COLOR] [COLOR=orange]F4MTESTER[/COLOR]</title>
-
- <link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NBA HD</link> 
-
-<thumbnail>http://i.imgur.com/lYpCTB1.png</thumbnail>
-</item>
-
-
-
-
 
 
 <item>
@@ -120,22 +109,6 @@
 </item>
 
 
-<item>
-<title>[COLOR=blue][I] REAL MADRID TV [/I][/COLOR] [COLOR=orange]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_REAL_MADRID_TV </link>
-
-
-<thumbnail>http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue] [I]CHELSEA TV[/COLOR][/I]  [COLOR=orange]F4MTESTER[/COLOR]</title>
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chelsea TV</link> 
-
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/09/Chelsea-TV-Logo.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]DXTV SPORTS (ESP)[/COLOR][/I] [COLOR lime] [I]  [/I][/COLOR]</title>
@@ -160,7 +133,7 @@
 
 
 <item>
-<title>[COLOR blue] [I]BEIN 1  FR[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]BEIN 1  FR[/COLOR][/I] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-bein-1-france-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.beinsports.fr/di/library/bein/4b/92/logo-bein-sports-1-hd_6tt6szp2b0ag1dscy6cxln08t.jpg?t=-724511221</thumbnail>
@@ -203,7 +176,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]BEIN 2  FR[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]BEIN 2  FR[/COLOR][/I] [COLOR lime] [I] SPORT DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-bein-2-france-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://blog.lenodal.com/uploads/actualitedelhabillage/2012/beinsport-2012_logo_chaine2.jpg</thumbnail>
@@ -418,7 +391,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]BOXNATION[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]BOXNATION[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-box-nation-live-streaming-free-online-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.paywizard.com/sites/default/files/boxnation.png</thumbnail>
@@ -440,7 +413,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]BT SPORT 1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]BT SPORT 1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
 <sportsdevil>http://mamahd.com/watch-bt-sport-2-live-stream-1.html</sportsdevil>
 <sportsdevil>http://ibrod.tv/btsports1.html</sportsdevil>
@@ -456,7 +429,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I][COLOR lime] [I] SPORT SDEVIL [/I][/COLOR] </title>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I][COLOR lime] [I] SPORTS DEVIL [/I][/COLOR] </title>
 <sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
 <referer>http://ibrod.tv/btsports2.html</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
@@ -471,7 +444,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]BT SPORT ESPN[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]BT SPORT ESPN[/COLOR][/I] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-espn-uk-live-stream-1.html</sportsdevil
 <referer>http://mamahd.com</referer>
 <thumbnail>http://mediaportal-uk-logos.googlecode.com/svn/trunk/TV/Simple/BT%20Sport%20ESPN%20HD.png</thumbnail>
@@ -543,51 +516,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue] [I]EUROSPORT 2 HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/tony/tony/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 </link>
-
-<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
-</item>
 
 
-<item>
-<title>[COLOR blue] [I]EUROSPORT 2 XTRA HD[/COLOR][/I]  [COLOR orange][/COLOR]</title>
-<link>http://213.188.51.185:9981/play/a013</link>
-
-<thumbnail>http://www.vodafone.pt/NR/rdonlyres/B0CCE754-2510-4344-9736-A8F57DCB51D8/0/new_logo_eurosport_932x196.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR blue] [I]EUROSPORT NEWS HD[/COLOR][/I]  [COLOR orange]F4MTESTER[/COLOR]</title>
-
- <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/170216/170216/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
-
-<link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport News</link> 
-
-<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/british_eurosport_2.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]FOOTBALL REPORT[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
 <link>http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8</link>
 <thumbnail>http://www.iptvlinksss.com/wp-content/uploads/2015/12/football-report-fubo-tv-America-logo-design-26.png</thumbnail>
 </item>
-<item>
-<title>[COLOR blue] [I]FOX SPORTS 1[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
 
- <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 1 (NET)</link> 
- 
-  <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports 1 SD (NET)</link> 
-
-<link>http://premium-service.club:9300/live/test1/test1/682.m3u8</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]FOX SPORTS 1[/COLOR][/I] </title>
@@ -595,16 +532,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue] [I]FOX SPORTS 2 HD[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-
- <link>plugin://plugin.video.f4mTester/?url=http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-
-<link>http://premium-service.club:9300/live/test1/test1/683.m3u8</link>
-<thumbnail>http://famososnaweb.com/wp-content/uploads/2014/06/Fox-Sports-2-Logo1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]SETANTA SPORT[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
@@ -694,16 +622,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR=blue] [I]MUTV [/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
 
-  <link>plugin://plugin.video.f4mTester/?url=http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MUTV</link> 
-  
-  
-  
-<referer>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</referer>
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/MUTV.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
@@ -836,14 +755,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY BUNDESLIGA[/COLOR][/I] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-bundesliga-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>https://www.teleclub.ch/sky/uploads/media_items/sky-news-280613.786.180.s.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY CALCIO[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY CALCIO[/COLOR][/I] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.themoodboard.com/wp-content/uploads/2013/08/MIN_SC2013.jpg</thumbnail>
@@ -878,7 +797,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
@@ -926,7 +845,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
@@ -957,14 +876,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports%20football.png</fanart>
  </item>
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <link>http://premium-service.club:9300/live/test1/test1/381.m3u8<link>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
@@ -972,7 +891,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1003,7 +922,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <link>http://premium-service.club:9300/live/test1/test1/380.m3u8<link>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
@@ -1011,7 +930,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
@@ -1045,54 +964,54 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <link>http://premium-service.club:9300/live/test1/test1/379.m3u8<link>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://ibrod.tv/skysports1.html</sportsdevil>
 <referer>http://ibrod.tv/skysports1.html</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-1-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 2[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://ibrod.tv/skysports2.html</sportsdevil>
 <referer>http://ibrod.tv/skysports2.html</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-2-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 3[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://ibrod.tv/skysports3.html</sportsdevil>
 <referer>http://ibrod.tv/skysports3.html</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 4[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://ibrod.tv/skysports4.html</sportsdevil>
 <referer>http://ibrod.tv/skysports4.html</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS 5[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://ibrod.tv/skysports5.html</sportsdevil>
 <referer>http://ibrod.tv/skysports5.html</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png</thumbnail>
@@ -1139,7 +1058,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]  </title>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]  </title>
 <sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
 <referer>http://sports4u.tv/channel/wwe-network-live-streaming/</referer>
 <thumbnail>https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/10770645/0430996001457630369_filepicker.png</thumbnail>
@@ -1147,7 +1066,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]ESPN CLASSIC[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]  </title>
+<title>[COLOR blue] [I]ESPN CLASSIC[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]  </title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -1172,7 +1091,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SKY SPORTS F1[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
 <referer>http://mamahd.com</referer>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
@@ -1188,13 +1107,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://static3.masmoto.net/competicion/files/2015/04/movistar-motogp-660x330.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR] </title>
+<title>[COLOR blue] [I]BT SPORT 2[/COLOR][/I] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR] </title>
 <sportsdevil>http://ibrod.tv/btsports2.html</sportsdevil>
 <referer>http://ibrod.tv/btsports2.html</referer>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
@@ -1208,22 +1127,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR blue] [I]MOTORZ TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]MOTORZ TV [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/motorz</sportsdevil>
 <referer>http://www.filmon.com/channel/motorz</referer>
 <thumbnail>http://www.motorstv.com/sites/default/files/contenu/image/pages/logos/logo_officiel_motorstv.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR=blue][B][I] MOTORS TV HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORS_TV </link>
-
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]MOTORS TV[/COLOR][/I] </title>
@@ -1264,44 +1174,44 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]RACELINE TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]RACELINE TV [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/raceline-tv</sportsdevil>
 <referer>http://www.filmon.com/channel/raceline-tv</referer>
 <thumbnail>http://static.filmon.com/assets/channels/3641/big_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]TORQUE AND TUSH [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]TORQUE AND TUSH [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/torque-and-tush</sportsdevil>
 <referer>http://www.filmon.com/channel/torque-and-tush</referer>
 <thumbnail>http://static.filmon.com/assets/channels/3187/big_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]AUTO TV [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]AUTO TV [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/auto-channel</sportsdevil>
 <referer>http://www.filmon.com/channel/auto-channel</referer>
 <thumbnail>http://static.filmon.com/assets/channels/2945/big_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]NBCSN[/COLOR][/I]  [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
 <referer>http://hdfree.tv/tvlogos.html</referer>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]STEEL DREAMS [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]STEEL DREAMS [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/steel-dreams</sportsdevil>
 <referer>http://www.filmon.com/channel/steel-dreams</referer>
 <thumbnail>http://static.filmon.com/assets/channels/784/big_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue] [I]DISTANT ROADS [/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]DISTANT ROADS [/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://www.filmon.com/channel/distant-roads</sportsdevil>
 <referer>http://www.filmon.com/channel/distant-roads</referer>
 <thumbnail>http://static.filmon.com/assets/channels/787/big_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR] [COLOR lime] [I] SPORT SDEVIL [/I][/COLOR]</title>
+<title>[COLOR blue] [I]WWE NXT[/I] [/COLOR] [COLOR lime] [I] SPORTS DEVIL [/I][/COLOR]</title>
 <sportsdevil>http://sports4u.tv/channel/wwe-network-live-streaming/</sportsdevil>
 <sportsdevil>http://cricfree.sx/sportsnet-one-live-stream</sportsdevil>
 <sportsdevil>http://videos.sapo.pt/sickapa</sportsdevil>
@@ -1311,17 +1221,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR=blue][B][I]MOTORVISION HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9484.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/88.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>http://84.75.244.87:8000/play/a00b</link>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.motorvision.tv/wp-content/uploads/2015/05/MVTV_square_blacktypo.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=blue][B][I]FUEL TV [/I][/B][/COLOR] [COLOR yellow][/COLOR] </title>
@@ -1333,25 +1233,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://wpmedia.o.canada.com/2012/01/fuel_tv_au1.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue][B][I]FOOD NETWORK [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
 
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9494.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/arcan/arcan/9494.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://lh4.ggpht.com/VDe_m9MMm8bAA8qMK2jST50oxqLtD4Vlvwc4X5OWAdNUfNd0ylu8CesD2bsmTSHgnzVH=w300-rw</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=blue][B][I]FASHION HD [/I][/B][/COLOR] [COLOR yellow] F4MTESTER[/COLOR] </title>
-
-   <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fashion TV</link> 
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://cdn.fashionmagazine.com/wp-content/uploads/2014/08/fm-logo-white.png</thumbnail>
-</item>
 
 
 <channel>
