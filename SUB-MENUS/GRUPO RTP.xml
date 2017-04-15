@@ -1,29 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium",[COLOR=lime][B][I] RTP 1 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png",[COLOR=lime][B][I] RTP 1 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",[COLOR=lime][B][I] RTP 2 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png",[COLOR=lime][B][I] RTP 2 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",[COLOR=lime][B][I] RTP 3 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.globalnews.pt/wp-content/uploads/2016/11/rtp3.jpg",[COLOR=lime][B][I] RTP 3 [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium",[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png",[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium",[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="RTPMadeira.pt"tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png",[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png/medium",[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png",[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png",[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png",[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
 
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png",[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
