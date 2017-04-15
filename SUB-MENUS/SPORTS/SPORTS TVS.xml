@@ -73,10 +73,10 @@
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR]  </title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1721.ts&amp;name=SPORT TV 1 CasMart#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3102.ts&amp;name=SPORT TV 1 CasMart#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.139.45:8888/live/silverio/silverio/48.ts&amp;name=SPORT TV 1 CasMart#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sadatek57.dyndns.tv:8000/live/osama/osama/3102.ts&amp;name=SPORT TV 1 CasMart#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1721.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/3102.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.139.45:8888/live/silverio/silverio/48.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sadatek57.dyndns.tv:8000/live/osama/osama/3102.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
