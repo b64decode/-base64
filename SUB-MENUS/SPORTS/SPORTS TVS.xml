@@ -192,7 +192,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR] </title>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]  </title>
 <link>$doregex[m3u8]</link>
 <regex>
 	<name>m3u8</name>
@@ -201,11 +201,11 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://s20.postimg.org/yietclccd/sport_tv3_pt.png</thumbnail>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR] </title>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   </title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
 <regex>
 <name>getLink</name>
@@ -214,20 +214,47 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://s20.postimg.org/yietclccd/sport_tv3_pt.png</thumbnail>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/Sporttv3-75</sportsdevil>
-<sportsdevil>http://nowwatchtvlive.co/sport-tv3-em-direto-gratis-sport-tv3-portugal-live-stream-online/</sportsdevil>
-<sportsdevil>http://www.tvfreesport.net/sport-tv-3-online-gratis/</sportsdevil>
-
 
 <referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://www.tvfreesport.net/sport-tv-3-online-gratis/</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://desportogratis.net/canal-sporttv3.html</sportsdevil>
+
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://sharecast.eu/embed/live3-qszlx</sportsdevil>
+<referer>http://hdfree.tv/</referer>
+<fanart>http://www.bancrete.com/wp-content/uploads/2011/12/Aviva-Stadium-1.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
+</item>
+
+
+
 
 
 <item>
