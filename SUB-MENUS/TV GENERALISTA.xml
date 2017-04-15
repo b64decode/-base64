@@ -10,7 +10,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3   pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<link>http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart>http://4.fotos.web.sapo.io/i/oc913ed30/18864727_W0533.png</fanart>
 </item>
@@ -49,7 +49,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15</link>
+<link>http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
@@ -84,7 +84,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 3 [/I][/B][/COLOR]  [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch64h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3 swfVfy=1 live=1 timeout=15</link>
+<link>http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
 <fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
 </item>
@@ -117,23 +117,67 @@
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
 
+ 
 <item>
-<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://94.176.148.234/live?token=D1ajQEDW8rv4MrlL6ALrQwExpired=1484693621<playpath>vera76f9de3c310cf2ad86811 <swfUrl>http://abcast.net/ob.swf <pageUrl>http://abcast.net/app.php?file=siciio&width=600&height=450</link>
+<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]   </title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/SIC-28-2</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/SIC-28-2</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream2</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/SIC-28-3</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream3</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/SIC-28-4</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream4</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/SIC-28-5</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]   </title>
+<link>
+sublink:http://live.impresa.pt/live/sic/sic540p.m3u8#
+sublink:http://live.impresa.pt/live/sic/sic.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/hosni/hosni/1148.ts&amp;name=CasMart#
+</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 <fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
 </item>
-
-<item>
-<title>[COLOR=red][B][I] SIC HD [/I][/B][/COLOR] </title>
-
-<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/3.m3u8</link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
-</item>
-
-
-
 
 
 
@@ -146,6 +190,28 @@
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
+
+
+
+
+<item>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  </title>
+<link>
+sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8#
+sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8#
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/hosni/hosni/1162.ts&amp;name=CasMart#
+</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+</item>
+ 
+
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
