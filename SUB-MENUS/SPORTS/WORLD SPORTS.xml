@@ -591,20 +591,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
- <item>
-<title>[COLOR blue] [I]KOMBAT SPORT[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat Sport</link> 
-<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/12/Kombat-Sport.jpg</thumbnail>
-</item>
-
- <item>
-<title>[COLOR blue] [I]FIGHT NETWORK HD[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight Network HD</link> 
-<thumbnail>http://wfsmma.com/wp-content/uploads/2016/02/FN-Logo-Horizontal-white.jpg</thumbnail>
-</item>
-
-
-
 
 
 <item>
@@ -676,25 +662,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>http://csisports.tv/wp-content/themes/csi/images/view1.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue] [I]FIGHT NETWORK HD [/I] [/COLOR] [COLOR orange]F4MTESTER[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/414.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 
-<link>plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/414.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-
-<referer>http://www.thefeed2all.eu/watch/408917/9/watch-xonetv.html</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR blue] [I]POKER CENTRAL[/COLOR][/I]  [COLOR red](HD Temp)[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://bestiptv.diz.la:8000/live/xxxyyyxxxyyyxxx/zzpeA32Mqgg/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=POKER CENTRAL (NET)</link> 
-
-<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
-<thumbnail>http://channelpear.com/images/media/9997.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR blue] [I]PREMIER SPORTS[/COLOR][/I]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
