@@ -192,7 +192,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]  </title>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 	<name>m3u8</name>
@@ -205,7 +205,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   </title>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
 <regex>
 <name>getLink</name>
@@ -256,38 +256,16 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 
-
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 4 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://31.220.40.61/privatestream/ playpath=dddd4uedifoekds?keys=-mk38EysabgrlvA1TTGvWA&keyt;=1471232732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=dddd4uedifoekds&width;=555&height;=440 timeout=10</link>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://46.126.71.153:8000/play/a01m</link>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-</item>
-
-
-
-
-<item> 
-<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vNTEuMTUuNTQuMTg0OjgwODEveHl6L3Nwb3J0c3R2NC9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+tv+4%5B%2FCOLOR%5D</jsonrpc>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
-</item>
-
-<item> 
-<title>[COLOR blue][B][I]SPORT TV 4 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-4-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvNzkvc3BvcnQtdHYtNC1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
-
+<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]   [COLOR=red](WebTV)[/COLOR]</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/Sport4PT.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
@@ -295,47 +273,57 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
-<sportsdevil>http://nowwatchtvlive.co/sport-tv4-em-direto-gratis-sport-tv-4-portugal-live-stream-online/</sportsdevil>
-<sportsdevil>http://istvfree2.me/e-live4.php?id=33684</sportsdevil>
+
+<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://bigsports.me/live/stv4.php</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR blue][B][I]SPORT TV 5 HD [/I][/B][/COLOR] [COLOR orange][/COLOR]</title>
-<link>http://46.126.71.153:8000/play/a02m </link>
-
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
 
 <item>
-<title>[COLOR blue][B][I]SPORT TV 5  [/I][/B][/COLOR] [COLOR orange]SD[/COLOR]</title>
-
-<link>http://213.188.51.185:9981/play/a008</link>
-
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item> 
-<title>[COLOR blue][B][I] SPORT TV 5 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vNTEuMTUuNTQuMTg0OjgwODEveHl6L3Nwb3J0c3R2NS9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+tv+5%5B%2FCOLOR%5D</jsonrpc>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/Sport5PT.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
-<item> 
-<title>[COLOR blue][B][I] SPORT TV 5 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-5-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvODAvc3BvcnQtdHYtNS1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
+<item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed/merda4-rp4un</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed/live4-w04by</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
