@@ -99,41 +99,33 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 2 HD [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://31.220.0.201/privatestream/he56t5r6?keys=QQfJ2QkV5FjgeFJEBoHScw&keyt=1472850809 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 </link>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2 [/I][/B][/COLOR]  [COLOR=lime](SD)[/COLOR]</title>
-<link>http://46.126.71.153:8000/play/a01i </link>
+<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR] </title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+	<page>http://sharecast.eu/embed.php?ch=live2-bipmr</page>
+	<referer></referer>
+	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
+</regex>
+<fanart></fanart>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
-
-
-
-
-
-
-<item> 
-<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDpodHRwOi8vNTEuMTUuNTQuMTg0OjgwODEveHl6L3Nwb3J0c3R2Mi9wbGF5bGlzdC5tM3U4&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DSports+tv+2%5B%2FCOLOR%5D</jsonrpc>
+<item>
+<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR] </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/Sport2PT.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
-
-<item> 
-<title>[COLOR blue][B][I]SPORT TV 2 [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=11&amp;name=%5bCOLOR%20FF11b500%5dSport-tv-2-pt%5b%2fCOLOR%5d&amp;url=aGRmcmVlOmh0dHA6Ly9iaWdzcG9ydHMubWUvd2F0Y2gvNzcvc3BvcnQtdHYtMi1wdC1saXZlLXN0cmVhbS5odG1s</jsonrpc>
-
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
