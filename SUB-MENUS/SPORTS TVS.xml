@@ -8,7 +8,7 @@
 <item>
 <title>[COLOR yellow] EVENTOS [/COLOR] </title
 <link>http://fui.me</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS/EVENTOS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/SPORTS/EVENTOS.xml</externallink>
 <thumbnail>http://premyersports.com/wp-content/uploads/2012/05/eventos-deportivos.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>>
 </item>
@@ -19,9 +19,9 @@
 
 
 <item>
-<title>[COLOR blue]  SPORTS TVS [/COLOR]  </title
+<title>[COLOR blue] SPORTS TVS [/COLOR]  </title
 <link>http://fui.me</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS/SPORTS%20TVS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/SPORTS/SPORTS%20TVS.xml</externallink>
 <thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
 <fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
 </item>
@@ -32,7 +32,7 @@
 <item>
 <title>[COLOR yellowgreen] PLEXUS ACESTREAM  [/COLOR]</title
 <link>http://fui.me</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS/PLEXUS%20ACESTREAM.xml</externallink>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/SPORTS/PLEXUS%20ACESTREAM.xml</externallink>
 <thumbnail>https://i.ytimg.com/vi/hhnFQ8XI91A/hqdefault.jpg</thumbnail>
 <fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
 </item>
@@ -42,7 +42,7 @@
 <item>
 <title>[COLOR yellowgreen] WORLD SPORTS  [/COLOR]  </title
 <link>http://fui.me</link>
-<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS/WORLD%20SPORTS.xml</externallink>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/SPORTS/WORLD%20SPORTS.xml</externallink>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000796252042/bcfc8a1fd95fb8cdeae9d5706b57d7c7_400x400.jpeg</thumbnail>
 <fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
 </item>
