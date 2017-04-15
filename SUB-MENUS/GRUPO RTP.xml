@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium",[COLOR lime]RTP    [COLOR orange](WebTV
 http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",[I][B][COLOR red] [COLOR red]>>MARCO JOÃO<<[/COLOR][/COLOR][/B][/I]
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium",[I][B][COLOR red] [COLOR red]CREDITOS PARA O CRIADOR DOS LOGOS[/COLOR][/COLOR][/B][/I]
 http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
 #EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium",RTP3
@@ -21,5 +21,5 @@ http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-A
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium",RTP AÇORES
 http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",RTP ÁFRICA
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium",[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]
 http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
