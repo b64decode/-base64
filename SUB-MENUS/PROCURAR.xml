@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR lavenderblush]PROCURAR[/COLOR]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
+<thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lavenderblush]APAGAR HISTORICO[/COLOR]</title
+<thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.TVsupertuga/?action=delSearch</jsonrpc>
+<fanart></fanart>
+</item>

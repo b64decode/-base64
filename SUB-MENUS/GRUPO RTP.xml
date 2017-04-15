@@ -1,0 +1,101 @@
+
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP AÇORES [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP ACORES [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpacores</sportsdevil>
+<sportsdevil>http://mytvfree2.me/rtp-acores-online</sportsdevil>
+<sportsdevil>  </sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpa.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP AFRICA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpafrica</sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpafrica.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP MADEIRA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
+<sportsdevil>http://mytvfree2.me/rtp-madeira-direto</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpmadeira.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP MEMORIA [/I][/B][/COLOR]   [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
+<sportsdevil>  </sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpm.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBpLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+FF11b500%5DRtp+internacional+v8%5B%2FCOLOR%5D</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=lime][B][I] RTP INTERNACIONAL [/I][/B][/COLOR]    [COLOR=red](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
+<referer>http://www.rtpinternacional.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtpinternacional.png</thumbnail>
+</item>
+
+
+
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layouttype>thumbnail</layouttype>
+
+
+
+</item>
+<channel>
+<name>[COLOR lime] [COLOR white][B] [COLOR lime]|||[/COLOR] Update 28-02-2017 [COLOR red]|||[/COLOR][/B][/COLOR]</name>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
+</channel>
+
+</item>
+<channel>
+<name> </name>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
+</channel>
+
+</item>
+<channel>
+<name>[COLOR lavenderblush]PROCURAR[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
+<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/PROCURAR.xml</externallink>
+</channel>
+
+
+</item>
+<channel>
+<name>[COLOR red] TV GENERALISTA  [/COLOR]</name>
+<thumbnail>http://1.bp.blogspot.com/-8SmsVD7tnZg/US-G0djZGwI/AAAAAAAADzQ/mtRudF6I5B8/s1600/RTP,+SIC+e+TVI+logo.png</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/TV%20GENERALISTA.xml</externallink>
+</channel>
+
+
+
+</item>
+<channel>
+<name>[COLOR lime] GRUPO RTP [/COLOR] </name>
+<thumbnail>http://pbear90repo.netai.net/addons/wweondemand/images/classicwwe.jpg</thumbnail>
+<fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/GRUPO%20RTP.xml</externallink>
+</channel>
+
+
+
+</item>
+<channel>
+<name>[COLOR yellowgreen] NOTICIAS [/COLOR]</name>
+<thumbnail>http://i.imgur.com/qEKihL2.jpg</thumbnail>
+<fanart>http://pbear90repo.netai.net/addons/wweondemand/images/wweondemandfanart.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/NOTICIAS.xml</externallink>
+</channel>
+
+
+
+</item>
+<channel>
+<name>[COLOR orange] DOCUMENTARIOS [/COLOR]</name>
+<thumbnail>http://lounge.obviousmag.org/por_tras_do_espelho/assets_c/2015/05/documentarios-thumb-600x300-105038.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/DOCUMENTARIOS.xml</externallink>
+</channel>
+
+</item>
+<channel>
+<name>[COLOR grey] INFANTAL   [/COLOR]</name>
+<thumbnail>http://www.adcaminho.com.br/wp-content/uploads/2011/03/Logo-Minist%C3%A9rio-Infantil.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/INFANTAL.xml</externallink>
+</channel>
+
+
+
+</item>
+<channel>
+<name>[COLOR white] ENTRETENIMENTO [/COLOR]</name>
+<thumbnail>http://www.crissief.xpg.com.br/imagens/entretenimento.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/ENTRETENIMENTO.xml</externallink>
+</channel>
+
+
+</item>
+<channel>
+<name>[COLOR magenta] FILMES/SERIES [/COLOR] </name>
+<thumbnail>http://www.geekonomics.com.br/wp-content/uploads/2015/02/capa-filmes-series-01.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/FILMES-SERIES.xml</externallink>
+</channel>
+
+
+</item>
+<channel>
+<name>[COLOR blue]  SPORTS  [/COLOR]  </name>
+<thumbnail>http://www.rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/SPORTS%20TVS.xml</externallink>
+</channel>
+
+
+
+<channel>
+<name>[COLOR lime] [I]MAIS IPTV GRATIS[/I] [/COLOR]</name>
+<thumbnail>http://i2.wp.com/eusouandroid.com/wp-content/uploads/iptv31.jpg?resize=666%2C352</thumbnail>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/djlopesdacosta/TODOOPROJECT/master/TV%20SUPER%20TUGA%20ADD%20ESTRUTURA%201/Menu%20EXTRA.xml</externallink>
+</subitem>
+</item>
+
+<channels>
+<channel>>
+<name>[COLOR lime] [I]RADIOS[/I] [/COLOR]</name>
+<thumbnail>http://www.clipartkid.com/images/846/blue-radio-clip-art-at-clker-com-vector-clip-art-online-royalty-gTlF2X-clipart.png</thumbnail>
+<fanart>https://mediamagazine.nl/wp-content/uploads/2016/08/DAB-radio.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/PROJECTOTEAM/PRINCIPAL/master/TV%20SUPER%20TUGA/SUB-MENUS/RADIOS.xml</externallink>
+</subitem>
+</item>

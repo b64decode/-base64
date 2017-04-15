@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+<item>   
+<title>[COLOR=white][B][I] SIC MULHER HD[/I][/B][/COLOR] [COLOR yellow] [/COLOR] </title>
+<link>http://213.188.51.185:9981/play/a00e</link>
+<link>http://46.126.71.153:8000/play/a02h</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC MULHER  [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://videos.sapo.pt/sicmulher</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sicmulher</sportsdevil>
+<sportsdevil>http://mytvfree2.me/sic-mulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicm.png</thumbnail>
+</item>
+
+
+
+
+
+<item>   
+<title>[COLOR=white][B][I] SIC RADICAL HD [/I][/B][/COLOR] [COLOR yellow]  [/COLOR]  </title> 
+
+<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2370.m3u8 </link>
+
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] SIC RADICAL [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicradical</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=sicradical</sportsdevil>
+<sportsdevil>http://mytvfree2.me/sic-radical-online</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicr.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B][I]  TVI FICCAO [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=tvificcao</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] +TVI [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
+
+<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_+_TVI </link>
+
+
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/6/69/Mais_TVI_logo.png/revision/latest?cb=20130328095626</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
+<sportsdevil>http://nowwatchtvlive.co/tvi-reality-em-direto-gratis-tvi-reality-portugal-live-stream-online/</sportsdevil>
+<referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+http://teste1:teste1@iptvbarbosa.ddns.net:9981/stream/channelnumber/23
+ <item>
+<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR]</title>
+<link>rtmp://31.220.40.59/privatestream/ playpath=ss6?keys=xdZZ9z-XIdPaACPxDM1BKA&keyt=1482182965 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>http://213.188.51.185:9981/play/a007</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=white][B][I] MTV PORTUGAL[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=mtvax?id=84773&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/mtvax/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/mtvax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I]  MTV PORTUGAL[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/mtv</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=mtv</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/mtv.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO INTERNACIONAL   [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>http://art.nextv.ca:80/nextv/globo/index.m3u8</link>
+<link>http://art.nextv.ca/nextv/globo/index.m3u8?token=123</link>
+<link>http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV GLOBO BRASIL [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.tv-ao-vivo.org/tv-online-gratis-tv-globo-portugal-online.html</sportsdevil>
+<sportsdevil>http://www.assistirtvbr.tv/canal/globo-rj.html</sportsdevil>
+<referer></referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] TV RECORD BRASIL [/I] [/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
+<link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<link>rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record</link>
+<regex>
+<name>file</name>
+<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
+<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
+<referer>http://ekostreams.co/ch/record.php</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR=white][B][I] SBT  [/I][/B][/COLOR]    [COLOR lime] BRASIL[/COLOR]    </title>
+<link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ1KzzxQlB5bI2NxbHomvD-ruSMxH17BtX7l8iHsYXssxGhmxm</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [I] REDE TV [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110305125842/logopedia/images/e/ec/RedeTV!.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] SPORTS DEVIL[/COLOR]</title>
+<sportsdevil>http://tv-ao-vivo.org/tv-online-gratis-tvi-reality-a-quinta-em-direto.html/</sportsdevil>
+<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+<link>http://31.204.128.112:8081/live/bbb/chunks.m3u8</link>
+<link>http://fastroot.ddns.net:8000/live/festas/festas/39.m3u8</link>
+<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
+</item> 
+
+
+<item>
+<title>[COLOR white] [I] BAND [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
+
+
+<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8</link>
+<link></link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
+</item> 
+
+
+<item>
+<title>[COLOR=white][B][I] BAND BR [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]    </title>
+<link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
+</item> 
+<item>
+<title>[COLOR=white][B][I] BAND NEWS  [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]        </title>
+<link></link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGQ8zPyWgMJ_MWUTIb2FYZ6Au6vhAKfYKd4oTFs5I9-QvSoreQ</thumbnail>
+</item>  
+
+

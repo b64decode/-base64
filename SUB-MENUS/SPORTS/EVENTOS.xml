@@ -1,0 +1,78 @@
+
+<item> 
+<title>[COLOR yellow][B][I] ZemTV [/I][/B][/COLOR] [COLOR lime]ZEMTV-SHANI[/COLOR]</title>
+<link>ignorme</link>
+<plugin>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</plugin>
+<thumbnail>http://www.zemtv.com/wp-content/uploads/2014/12/zem-logo-final1.png</thumbnail>
+</item>
+
+
+
+<item> 
+<title>[COLOR yellow][B][I] LiveTV.ru [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<folder>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</folder>
+<thumbnail>http://www.userlogos.org/files/logos/Rog/livetv_ru_09.png</thumbnail>
+</item>
+<item>
+<title>[COLOR yellow] ROJADIRECTA  [/COLOR] [COLOR lime]( SPORTS DEVIL )[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://larry239.netau.net/televisiones/rojadirecta.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B][I]Arenavision[/I][/B][/COLOR] [COLOR lime] (P2PSPORT)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://kodi.altervista.org/wp-content/uploads/2015/07/arenavision.jpg</thumbnail>
+</item>
+<item> 
+<title>[COLOR yellow][B] FIRSTROW SPORTS [/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.gomohu.com/wp-content/uploads/2015/06/firstrow_white.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR yellow][B] LS Hunter [/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgC8mj8iZsYJnc2_cy9OYdyFHnz-EDXS_iJA9gWZvpHWgdUnk_</thumbnail>
+</item>
+<item> 
+<title>[COLOR yellow][B][I]Streamsports  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/Streamsports.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://westoncup.com/wp-content/uploads/2014/12/streamsportstransparent.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR yellow][B][I] Stream2watch [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/s2.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.stunpoll.com/images/users/_u_1844_f_9142d5dbc2022a9dcc217b684cf0e8d7s2wlogoa.png</thumbnail>
+</item>
+<item> 
+<title>[COLOR yellow][B][I] DimSports [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://cdn.cdnco.us/dim/logo.png</thumbnail>
+</item>
+
+
+<item> 
+<title>[COLOR yellow][B][I] LIVE CHANNELS [/I][/B][/COLOR] [COLOR lime](AwesomeStreams)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.AwesomeStreams/?fanart=http%3a%2f%2fimages6.alphacoders.com%2f550%2f550393.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20blue%5dLIVE%20%5b%2fCOLOR%5d%5bCOLOR%20red%5dCHANNELS%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fpastebin.com%2fraw%2ft5J7DRV6</jsonrpc>
+<thumbnail>https://pbs.twimg.com/media/CfEunt0UEAA8TME.jpg</thumbnail>
+</item>
+
+
+
+<item> 
+<title>[COLOR yellow][B][I] LIVE GAMES [/I][/B][/COLOR] [COLOR lime](AwesomeStreams)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.AwesomeStreams/?fanart=http%3a%2f%2fimages6.alphacoders.com%2f550%2f550393.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20blue%5dLIVE%20%5b%2fCOLOR%5d%5bCOLOR%20red%5dGAMES%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fpastebin.com%2fraw%2faWzSjBpY</jsonrpc>
+<thumbnail>https://pbs.twimg.com/media/CfEunt0UEAA8TME.jpg</thumbnail>
+</item>
+
+

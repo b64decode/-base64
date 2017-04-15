@@ -1,0 +1,134 @@
+
+
+
+
+
+
+<item>
+<title>[COLOR=orange][B][I] DISCOVERY [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]  DISCOVERY [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/discovery</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=discovery</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR=orange][B][I] HISTORIA [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=historiab?id=21918$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/historiab/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR orange] HISTORIA [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/historia/</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=historia/</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR orange] [I] ANIMAL PLANET OFF [/I] [/COLOR][COLOR=lime](Full HD)[/COLOR]</title>
+<link>http://163.172.14.11:12000/live/3Hw7t8BBaF3HaK3b/Va8jDb9myb7mPzt5/1154.m3u8</link>
+<link></link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20091119143730</thumbnail>
+</regex>
+</item>
+
+
+
+<item> 
+<title>[COLOR=orange][B][I] NATIONAL GEOGRAPHIC [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR=orange][B][I] NATIONAL GEOGRAPHIC [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=nationalgeographic</sportsdevil>
+<sportsdevil>http://www.winpt.com/national-geographic-channel-online/</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange] [I] NAT GEO WILD [/I] [/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.wildsafarilive.com/</sportsdevil>
+<sportsdevil>http://mytvfree2.me/natgeo-wild-brasil</sportsdevil>
+<sportsdevil>http://samistream.tv/nat-geo-wild-live-tv.php</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=orange][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=odisseiax?id=84765&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR orange][B][I]  ODISSEIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
+<item> 
+

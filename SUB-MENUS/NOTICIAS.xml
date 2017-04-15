@@ -1,0 +1,198 @@
+
+<item>
+<title>[COLOR=cyan][B][I] SIC NOTICIAS [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sicn.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=cyan][B][I] RTP 3 [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=cyan][B][I] RTP 3 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<referer>http://www.rtp.pt/play/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
+</item>
+
+ 
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
+<sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
+<sportsdevil>http://www.meocanaltv.com/canais.php?stream=TVI24</sportsdevil>
+<sportsdevil>http://firstrowne.eu/watch/423640/1/watch-sl-benfica-vs-basquete-de-barcelos.html</sportsdevil>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
+<link>http://46.126.71.153:8000/play/a01k</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=83399&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/portocanal</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] SPORTING TV [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/ver/sporting-tv-online</sportsdevil>
+<sportsdevil>http://www.desportodireto.com/sporting/</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] [I]SPORTING TV  [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title> 
+<link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf live=true pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<expres>ea=(.*)'</expres>
+<page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
+</item>
+
+<item>
+<title>[COLOR cyan] [I]BENFICA TV 1[/I] [/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://mytvfree2.me/ver/benfica-tv-direto</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=benficatv</sportsdevil>
+<sportsdevil>http://www.desportodireto.com/btv1/</sportsdevil>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] [I]BENFICA TV 1 [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=benfas?id=86051&amp;pk=$doregex[get-pk] timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
+<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyfdx?id=22078$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435 live=true</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/benfas/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan] [I]BENFICA TV 2[/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<sportsdevil>http://www.desportodireto.com/btv2/</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/benfica-tv</sportsdevil>
+<sportsdevil>http://www.desportodireto.com/btv1/</sportsdevil>
+<referer>http://www.streamifyplayer.com</referer>
+<thumbnail>http://www.365center.me/assets/uploadscenter365/BenficaTV2.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR=cyan][B][I] A BOLA TV HD [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.desportonline.net/index.php?canal=abolatv</sportsdevil>
+<sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
+<sportsdevil>http://mytvfree2.me/a-bola-emissao-web</sportsdevil>
+<sportsdevil>http://tvtuga.tk/a-bola-tv/</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] [I] A BOLA TV [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] [I] CM TV [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR cyan][B][I]  CM TV [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgratis.16mb.com/correiodamanha.html</sportsdevil>
+<sportsdevil>http://www.desportonline.net/index.php?canal=cmtv</sportsdevil>
+<sportsdevil></sportsdevil>
+<sportsdevil></sportsdevil>
+<referer>http://www.liveflashplayer.net/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+</item>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
