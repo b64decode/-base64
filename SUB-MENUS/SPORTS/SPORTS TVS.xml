@@ -257,7 +257,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]   [COLOR=red](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 4  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
 <regex>
 <name>getLink</name>
@@ -271,7 +271,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
@@ -279,7 +279,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR=blue][B][I] SPORT TV 4  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://bigsports.me/live/stv4.php</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
@@ -289,7 +289,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
 <regex>
 <name>getLink</name>
@@ -302,7 +302,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 	<name>m3u8</name>
@@ -315,7 +315,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 <item>
-<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  </title>
+<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[m3u8]</link>
 <regex>
 	<name>m3u8</name>
