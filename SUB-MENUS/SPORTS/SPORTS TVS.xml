@@ -425,8 +425,55 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 		</regex>
 </item>
 
+
 <item>
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR=red](WebTV)[/COLOR]</title>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/BTV-78</sportsdevil>
+
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=benficatv</sportsdevil>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://www.tvtuga.com/benfica-tv/</sportsdevil>
+
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
+
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://firstrowas1.cc/embed/MyPAl2yq4Y</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR=red](HD)[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1670.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/56.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
@@ -440,39 +487,6 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 
-<item>
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://tvgente.in/watch/BTV-78</sportsdevil>
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=benficatv</sportsdevil>
-<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR blue] [I]BENFICA TV 2 HD[/I] [/COLOR]    [COLOR orange]F4MTESTER[/COLOR]</title>
-
-
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item> 
-<title>[COLOR blue] [I]BENFICA TV [/I] [/COLOR]  [COLOR lime](WebTV)[/COLOR] </title>
-<link>rtmp://31.220.0.13/privatestream/ playpath=gwearger?keys=qfiYwizuaN7eAshR7mytWA&keyt=1478383342 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=gwearger&width=599&height=399 swfVfy=1 live=1 timeout=15</link>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR blue] [I]BENFICA TV [/I] [/COLOR]  [COLOR lime](WebTV)[/COLOR] </title>
-<link>rtmp://31.220.2.87/privatestream/gwearger?keys=6F3uNMk2aEzr9FaSDgsMcA&keyt=1481079047 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gwearger&width=630&height=510 swfVfy=1 live=1 timeout=15</link>
-<link>http://81.171.6.226/livesisisi/playlist.m3u8?id=89819&pk=0811a364d6ee505fc41f5968c9cb07e2023394d67ca80caf66fc9c5a36a4a171</link>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv2_ver1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=blue][B][I] PORTO CANAL HD [/I][/B][/COLOR]      [COLOR=orange]F4MTESTER[/COLOR]</title>
