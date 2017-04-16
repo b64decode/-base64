@@ -57,7 +57,7 @@
 
 
 <item>
-<title>[COLOR blue] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR grey] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
 
 
@@ -74,7 +74,7 @@
 
 
 <item>
-<title>[COLOR white][B][I]  ZIGZAG [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR grey][B][I]  ZIGZAG [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>https://www.rtp.pt/play/zigzag/direto/tv</sportsdevil>
 
 <referer>http://ucaster.eu/</referer>
@@ -98,7 +98,7 @@
 
 
 <item>
-<title>[COLOR=white][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
 <link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
 </item
@@ -106,6 +106,237 @@
 
 
 
+
+<item>
+<title>[COLOR grey][B] BOOMERANG [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/boomerang/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR grey][B] CARTOON NETWORK[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cartoon-network/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/yn9rka4h7/cartoonnetwork.png</thumbnail>
+<fanart>http://s17.postimg.org/yn9rka4h7/cartoonnetwork.png</fanart>
+</item>
+
+<item>
+<title>[COLOR grey][B] GLOOB [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/gloob-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<fanart>http://logosc.ucoz.com/Gloob.png</fanart>
+<thumbnail>http://logosc.ucoz.com/Gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR grey][B] DISCOVERY KIDS [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://logosc.ucoz.com/Discovery-Kids.png</thumbnail>
+<fanart>http://logosc.ucoz.com/Discovery-Kids.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR grey][B]DISCOVERY KIDS [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://logosc.ucoz.com/Discovery-Kids.png</thumbnail>
+<fanart>http://logosc.ucoz.com/Discovery-Kids.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR grey][B] DISNEY CHANNEL [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-channel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s32.postimg.org/iytuuw9j9/disney_channel.png</thumbnail>
+<fanart>https://s32.postimg.org/iytuuw9j9/disney_channel.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR grey][B] DISNEY JUNIOR [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-junior/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s24.postimg.org/q08s3k25t/disneyjr.png</thumbnail>
+<fanart>http://s24.postimg.org/q08s3k25t/disneyjr.png</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR grey][B] DISNEY XD [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-xd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://logosc.ucoz.com/Disney-XD.png</thumbnail>
+<fanart>http://logosc.ucoz.com/Disney-XD.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR grey][B] NICK [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-nickelodeon-ao-vivo-em-hd-gratis/opcao-4932/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s18.postimg.org/f9sbnd0c5/nick.png</thumbnail>
+<fanart>http://s18.postimg.org/f9sbnd0c5/nick.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR grey][B] NICK JR [/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/nick-jr/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s31.postimg.org/6051scm2j/nick_jr.png</thumbnail>
+<fanart>http://s31.postimg.org/6051scm2j/nick_jr.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR grey][B] RATIMBUM[/B][/COLOR]</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/castelo.html</link>
+<thumbnail>http://logosc.ucoz.com/tv-ra-tim-bum.png</thumbnail>
+<fanart>http://logosc.ucoz.com/tv-ra-tim-bum.png</fanart>
+</item>
 
 
 
