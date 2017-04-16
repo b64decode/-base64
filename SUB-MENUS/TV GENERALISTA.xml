@@ -195,26 +195,6 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 
-<item>
-<title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-
-</link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-
-</item>
-
-
-<item>
-<title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
-
-</link>http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link></link>k> http://www.embedezcast.com/embedplayer/tvi0x/1/650/500</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-
-</item>
-
-
 
 
 <item>
