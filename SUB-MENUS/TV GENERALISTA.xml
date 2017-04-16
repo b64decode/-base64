@@ -95,7 +95,7 @@
 <link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+
 </item>
 
  
@@ -142,7 +142,7 @@
 <referer>http://www.tvgente.in/</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+
 </regex>
 </item>
 
@@ -157,17 +157,16 @@ sublink:http://live.impresa.pt/live/sic/sic.m3u8#
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/hosni/hosni/1148.ts&amp;name=TVsupertuga#
 </link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-<fanart>http://iptv.cline.in:80/live/greg/greg/1166.m3u8</fanart>
+
 </item>
 
 
 
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://yournetindex.com/tvi-em-directo/</sportsdevil>
-<sportsdevil>http://ontvfree2.me/tvi-directo-online</sportsdevil>
+
 <sportsdevil>http://www.tvtuga.com/~tvi</sportsdevil>
-<sportsdevil></sportsdevil>
+
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
@@ -176,7 +175,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  </title>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=cyan]SD[/COLOR]</title>
 <link>
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8#
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8#
@@ -196,7 +195,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 <item>
 <title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
-</link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=
+</link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=</link>
 </link>http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link></link>k> http://www.embedezcast.com/embedplayer/tvi0x/1/650/500</link>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -211,29 +210,10 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </regex>
 </item>
 
-<item>
-<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]SD[/COLOR]</title>
-
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1416.m3u8</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
-</item>
-<item> 
 
 
 <item>
-<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]   [COLOR=cyan]HD[/COLOR]</title>
-
-<link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/4.m3u8</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
-</item>
-<item> 
-
-<item>
-<title>[COLOR=red][B][I] TVI HD [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
+<title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR]   [COLOR=cyan][/COLOR]</title>
 
 <link></link>
 
@@ -243,6 +223,6 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-<fanart>https://lh6.ggpht.com/Rco-3B_gxp2WxcpArRjrp3iT_XKI94B2paXEh86tn-wioNk9EGKYYUaa6NDg1yLmoGqF=h900</fanart>
+
 </item>
 <item> 
