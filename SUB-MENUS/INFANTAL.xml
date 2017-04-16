@@ -91,14 +91,14 @@
 
 
 <item>   
-<title>[COLOR=grey][B][I]  BOOMERANG BR [/I][/B][/COLOR] </title> 
+<title>[COLOR=grey][B][I]  BOOMERANG  [/I][/B][/COLOR]      [COLOR yellow][B] BR [/B][/COLOR]</title> 
 <link>http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
+<title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
 </item
@@ -108,7 +108,7 @@
 
 
 <item>
-<title>[COLOR grey][B] BOOMERANG [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR grey][B] BOOMERANG [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/boomerang/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -132,7 +132,7 @@
 
 
 <item>
-<title>[COLOR grey][B] CARTOON NETWORK[/B][/COLOR]</title>
+<title>[COLOR grey][B] CARTOON NETWORK[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/cartoon-network/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -153,7 +153,7 @@
 </item>
 
 <item>
-<title>[COLOR grey][B] GLOOB [/B][/COLOR]</title>
+<title>[COLOR grey][B] GLOOB [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/gloob-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -174,7 +174,7 @@
 </item>
 
 <item>
-<title>[COLOR grey][B] DISCOVERY KIDS [/B][/COLOR]</title>
+<title>[COLOR grey][B] DISCOVERY KIDS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -194,7 +194,7 @@
 
 
 <item>
-<title>[COLOR grey][B]DISCOVERY KIDS [/B][/COLOR]</title>
+<title>[COLOR grey][B]DISCOVERY KIDS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -216,7 +216,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY CHANNEL [/B][/COLOR]</title>
+<title>[COLOR grey][B] DISNEY CHANNEL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-channel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -238,7 +238,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY JUNIOR [/B][/COLOR]</title>
+<title>[COLOR grey][B] DISNEY JUNIOR [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-junior/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -261,7 +261,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY XD [/B][/COLOR]</title>
+<title>[COLOR grey][B] DISNEY XD [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-xd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -285,7 +285,7 @@
 
 
 <item>
-<title>[COLOR grey][B] NICK [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR grey][B] NICK [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -310,7 +310,7 @@
 
 
 <item>
-<title>[COLOR grey][B] NICK JR [/B][/COLOR]</title>
+<title>[COLOR grey][B] NICK JR [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/nick-jr/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -332,7 +332,7 @@
 
 
 <item>
-<title>[COLOR grey][B] RATIMBUM[/B][/COLOR]</title>
+<title>[COLOR grey][B] RATIMBUM[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/castelo.html</link>
 <thumbnail>http://logosc.ucoz.com/tv-ra-tim-bum.png</thumbnail>
 <fanart>http://logosc.ucoz.com/tv-ra-tim-bum.png</fanart>
