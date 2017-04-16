@@ -215,7 +215,7 @@
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 1 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR magenta] [I] TV CINE 1 [/I] [/COLOR]</title>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
 <link>$doregex[select_Url]</link>
 <regex>
