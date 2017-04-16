@@ -155,72 +155,102 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 
-<item>
-<title>[COLOR=cyan][B][I] SPORTING TV [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://mytvfree2.me/ver/sporting-tv-online</sportsdevil>
-<sportsdevil>http://www.desportodireto.com/sporting/</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
-</item>
-
-
 
 <item>
-<title>[COLOR cyan] [I]SPORTING TV  [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title> 
-<link>rtmp://$doregex[get-ip]/live/ playpath=sportyaza?id=21983$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf live=true pageUrl=http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</link>
+<title>[COLOR=blue][B][I] SPORTING TV  [/I][/B]   [COLOR=red](WebTV)[/COLOR]</title>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
-<name>get-ip</name>
+<name>ip</name>
 <expres>redirect=(.*)</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
 </regex>
 <regex>
-<expres>ea=(.*)'</expres>
-<page>http://www.streamifyplayer.com/embedplayer/sportyaza/1/555/430</page>
-<referer>http://www.streamifyplayer.com</referer>
-<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail> 
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com/membedplayer/sical/1/599/399</referer>
+</item>
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://www.sporttvhdgratis.com/index.php?canal=sportingtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=blue][B][I] SPORTING TV HD [/I][/B]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://www.sportvgratisdireto.net/index.php?canal=sportingtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR cyan] [I]BENFICA TV[/I] [/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+<page>http://sharecast.eu/embed/btv-md504</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR cyan] [I]BENFICA TV 1[/I] [/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://mytvfree2.me/ver/benfica-tv-direto</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=benficatv</sportsdevil>
-<sportsdevil>http://www.desportodireto.com/btv1/</sportsdevil>
-<referer>http://www.streamifyplayer.com</referer>
+<title>[COLOR cyan] [I]BENFICA TV[/I] [/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+	<regex>
+		<name>ip</name>
+		<expres>redirect=(.*)</expres>
+		<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+	</regex>
+	<regex>
+		<name>m3u8</name>
+		<expres>ea \+ "(.*?)"</expres>
+		<page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page>
+		<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+		<referer>http://www.mips.tv</referer>
+		</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://sharecast.eu/embed/btv-md504</sportsdevil>
+
+<referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR cyan] [I]BENFICA TV 1 [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=benfas?id=86051&amp;pk=$doregex[get-pk] timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500</link>
-<link>rtmp://$doregex[get-ip]/live/ playpath=slbueyfdx?id=22078$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyfdx/1/555/435 live=true</link>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/benfas/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<title>[COLOR cyan] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://firstrowas1.cc/embed/MyPAl2yq4Y</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</regex>
 </item>
-
-
-
 
 <item>
-<title>[COLOR cyan] [I]BENFICA TV 2[/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<sportsdevil>http://www.desportodireto.com/btv2/</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/benfica-tv</sportsdevil>
-<sportsdevil>http://www.desportodireto.com/btv1/</sportsdevil>
-<referer>http://www.streamifyplayer.com</referer>
-<thumbnail>http://www.365center.me/assets/uploadscenter365/BenficaTV2.png</thumbnail>
+<title>[COLOR=cyan][B][I] A BOLA TV HD [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvonlinehd.net/index.php?canal=abolatv</sportsdevil>
+<referer>http://www.sporttvsonline.com/</referer>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
 </item>
-
-
 
 
 
@@ -234,24 +264,13 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 <thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
 </item>
 
-
-
 <item>
 <title>[COLOR cyan] [I] A BOLA TV [/I] [/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<link>rtmp://$doregex[get-ip]/stream playpath=abolatvg?id=85984$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/abolatvg/1/650/500 live=true timeout=10</link>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-<referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
-</regex>
+<link>http://163.172.60.49/loadbalance/72772254352793986215/chunks.m3u8</link>
 </item>
+
+
 
 
 
