@@ -157,7 +157,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 <item>
-<title>[COLOR=cyan[B][I] SPORTING TV  [/I][/B]   [COLOR=red](WebTV)[/COLOR]</title>
+<title>[COLOR=cyan][B][I] SPORTING TV HD [/I][/B]   [COLOR=red](WebTV)[/COLOR]</title>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
