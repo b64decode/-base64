@@ -165,12 +165,20 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
-<sportsdevil>http://www.tvtuga.com/~tvi</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/TVI-85-3</sportsdevil>
 
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+
+<sportsdevil>http://www.tvtuga.com/~tvi</sportsdevil>
+
+<referer>http://ezcast.tv/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+</item>
 
 
 
@@ -209,6 +217,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
 </regex>
 </item>
+<item> 
 
 
 
