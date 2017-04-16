@@ -25,82 +25,46 @@
 
 
 
-
-
-
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
-<sportsdevil>http://mytvfree2.me/rtp-2-online-em-direto</sportsdevil>
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp2</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=rtp2</sportsdevil>
-<sportsdevil></sportsdevil>
+
 <referer>http://www.rtp.pt/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 </item>
 
 
-
-
-
 <item>
-<title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
+<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/SIC-28-2</sportsdevil>
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
+<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/SIC-28-3</sportsdevil>
 
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/KodiPortugal.pt.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=red][B][I] RTP 2 HD [/I][/B][/COLOR]  [COLOR=cyan]      [/COLOR]</title>
-
-<link>http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1406.m3u8</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR=red][B][I] RTP 3 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-<sportsdevil>http://mytvfree2.me/rtp-informacao-direto</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=rtp3</sportsdevil>
-<sportsdevil></sportsdevil>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR=red][B][I] RTP 3 [/I][/B][/COLOR]  [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
-<fanart>http://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTP2.jpg</fanart>
-</item>
-
-
-<item> 
-<title>[COLOR red][B][I]  RTP 3 [/I][/B][/COLOR]  </title>
-<link>ignorme</link>
-<link>http://iptvfree1.com:6969/live/15/www.iptvrestream.net/3986.m3u8 </link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png</thumbnail>
-<fanart>http://shifter.pt/wp-content/uploads/2015/09/johnolivernartp3_02.jpg</fanart>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/SIC-28-4</sportsdevil>
+
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://sic.sapo.pt/direto</sportsdevil>
-<sportsdevil>http://www.sportgratistv.net/index.php?canal=sic</sportsdevil>
-<sportsdevil>http://ontvfree4.me/sic-pt-online</sportsdevil>
-<sportsdevil>http://www.winpt.com/sic-online-em-directo/</sportsdevil>
+
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
