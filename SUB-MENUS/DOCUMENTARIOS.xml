@@ -60,19 +60,9 @@
 <item>
 <title>[COLOR orange] HISTORIA [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/historia/</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=historia/</sportsdevil>
 <referer>http://liveflashplayer.com/</referer>
+<fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR orange] [I] ANIMAL PLANET OFF [/I] [/COLOR][COLOR=lime](Full HD)[/COLOR]</title>
-<link>http://163.172.14.11:12000/live/3Hw7t8BBaF3HaK3b/Va8jDb9myb7mPzt5/1154.m3u8</link>
-<link></link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20091119143730</thumbnail>
-</regex>
 </item>
 
 
@@ -113,7 +103,13 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR orange][B][I]  ODISSEIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR=orange][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
