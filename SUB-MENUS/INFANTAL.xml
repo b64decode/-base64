@@ -1,46 +1,8 @@
 
-<item>
-<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
 
 
-<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 
 
-<item>
-<title>[COLOR=grey][B][I] SIC K  [/I][/B][/COLOR] [COLOR=lime]F4MTESTER[/COLOR]</title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_KIDS </link>
-
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=grey][B][I] NICKELODEON HD [/I][/B][/COLOR] [COLOR=lime][/COLOR]</title>
-
-<link>http://213.188.51.185:9981/play/a00b</link>
-
-<thumbnail>http://www.thelogodb.com/images/media/logo/vrsuxp1434268186.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=grey][B][I] CARTOON NETWORK HD [/I][/B][/COLOR]     [COLOR=lime]F4MTESTER[/COLOR]  </title>
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CARTOON_NETWORK </link>
-
-
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png</thumbnail>
-</item>
 
 
 <item>
@@ -89,84 +51,22 @@
 </item>
 
 
-<item>
-<title>[COLOR=grey][B][I] PANDA BIGGS HD [/I][/B][/COLOR]    [COLOR=lime]F4MTESTER[/COLOR]  </title>  
 
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3086.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BIGGS </link>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sqttxp1433353102.png</thumbnail>
-</item>
+
+
+
 
 <item>
-<title>[COLOR=grey][B][I] PANDA HD [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR]  </title>
+<title>[COLOR blue] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
 
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_PANDA </link>
- 
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+
+<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
-</item>
-
-<item>   
-<title>[COLOR=grey][B][I] JIM JAM [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR] </title> 
-
-<link>plugin://plugin.video.f4mTester/?url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIM_JAM </link>
-
-<thumbnail>https://www.kabelnoord.nl/uploads/images/seniorendag/JimJam_logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=grey][B][I] BABY FIRST HD [/I][/B][/COLOR][COLOR lime] F4MTESTER [/COLOR] </title>
-
-
- <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal.selfip.com:8000/live/JOEL/JOEL/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby First</link> 
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=grey][B][I] BABY TV HD [/I][/B][/COLOR][COLOR lime] F4MTESTER [/COLOR]</title>
 
 
 
 
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
-</item>
-
-<item>   
-<title>[COLOR=grey][B][I]24 KITCHEN HD [/I][/B][/COLOR] [COLOR lime] F4MTESTER [/COLOR]</title> 
-
-<link>plugin://plugin.video.f4mTester/?url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_24_KITCHEN_HD </link>
-
-
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/Logo24kitchenHD_pantone.jpg</thumbnail>
-</item>
 
 
 
