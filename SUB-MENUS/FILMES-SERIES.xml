@@ -294,3 +294,1125 @@
 <thumbnail>http://vignette2.wikia.nocookie.net/tvpediabrasil/images/7/76/Telecinepipoca.jpg/revision/latest?cb=20140515150953&path-prefix=pt-br</thumbnail>
 </item>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR purple][B]CANAL BRASIL (AOVIVONATV)  MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://viageek.com.br/wp-content/uploads/2014/08/azul.png</thumbnail>
+<fanart>http://viageek.com.br/wp-content/uploads/2014/08/azul.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] CINEMAX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s24.postimg.org/75vs42fs1/cinemax.png</thumbnail>
+<fanart>http://s24.postimg.org/75vs42fs1/cinemax.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B]CINE GOSPEL 24HS MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://stmv2.euroti.com.br:1935/tvmaceio/tvmaceio/live.m3u8?MWINFO</link>
+<thumbnail>https://s26.postimg.org/wva6jtebd/gospel2.png</thumbnail>
+<fanart>https://s26.postimg.org/wva6jtebd/gospel2.png</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B] FOX (AOVIVONATV) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s32.postimg.org/7y1thriph/Fox.png</thumbnail>
+<fanart>http://i.imgur.com/E2zDZKy.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] FOX (OP 3) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://m.tudotv.tv/assistir-o-canal-fox-ao-vivo-pela-internet/</page>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s32.postimg.org/7y1thriph/Fox.png</thumbnail>
+<fanart>http://i.imgur.com/E2zDZKy.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B] FOX LIFE (AOVIVONATV) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/25384374416532833464/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://2.bp.blogspot.com/-8-AJk5HnS5c/WBj-X_uga-I/AAAAAAAAAsI/dMMsr9zdyE4127cTO03GnUbL1Xt1MPIQQCEw/s1600/Fox-Life-HD.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-8-AJk5HnS5c/WBj-X_uga-I/AAAAAAAAAsI/dMMsr9zdyE4127cTO03GnUbL1Xt1MPIQQCEw/s1600/Fox-Life-HD.png</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B] FX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/fx-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s27.postimg.org/v2ysovgkf/image.png</thumbnail>
+<fanart>http://i.imgur.com/ZetS0tO.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B] HBO (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s18.postimg.org/ytb0mpqf9/hbo.png</thumbnail>
+<fanart>http://i.imgur.com/1TLm0FP.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white][B] HBO 2 (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo-2/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s32.postimg.org/ro8fqkzoh/HBO_2.png</thumbnail>
+<fanart>http://aovivonatv.com/fotos/fb765b192dcc4a32f06e870f5abb6ff4.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] HBO FAMILY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/lw2etrpff/HBO_Family.png</thumbnail>
+<fanart>http://i.imgur.com/wEYH8xU.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR green][B] HBO PLUS (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s33.postimg.org/r72rs54xr/HBO_Plus.png</thumbnail>
+<fanart>http://i.imgur.com/bPZiK6t.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR green][B] HBO PLUS (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s33.postimg.org/r72rs54xr/HBO_Plus.png</thumbnail>
+<fanart>http://i.imgur.com/bPZiK6t.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR yellow][B] HBO SIGNATURE (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s32.postimg.org/yptuwknkx/HBO_Signature.png</thumbnail>
+<fanart>http://s32.postimg.org/yptuwknkx/HBO_Signature.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][B] HBO SIGNATURE (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s32.postimg.org/yptuwknkx/HBO_Signature.png</thumbnail>
+<fanart>http://s32.postimg.org/yptuwknkx/HBO_Signature.png</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR green][B]LIFE TIME (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/53878483127642847157/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://i.imgur.com/MYZLXti.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-VTaCwtblfco/V-nOFJy_2hI/AAAAAAAAwsA/AuVr3clu_ewZunhLKRgPRTNqHuK1tdIgwCPcB/s1600/Lifetime%2BHD.png</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B] MAX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-max-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/h4q35bctn/max.png</thumbnail>
+<fanart>https://s31.postimg.org/h4q35bctn/max.png</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] MAX PRIME (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s9.postimg.org/l51ctd8mz/maxprime.png</thumbnail>
+<fanart>http://i.imgur.com/do7LQg7.png</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR green][B] MAX UP (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/cdad8f5jf/Max_UP.png</thumbnail>
+<fanart>https://s31.postimg.org/cdad8f5jf/Max_UP.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B] MEGAPIX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s28.postimg.org/cqqksvb61/megapix.png</thumbnail>
+<fanart>http://i.imgur.com/fLWqpU0.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B]PARAMOUNT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/f9lq0eei3/paramount.png</thumbnail>
+<fanart>http://i.imgur.com/aaaezHJ.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white][B] SONY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/55987292618779665195/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/r52hou6h7/sony2.png</thumbnail>
+<fanart>http://i.imgur.com/saJdV7A.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] SPACE (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/uu398livf/space.png</thumbnail>
+<fanart>http://i.imgur.com/f3MLspH.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR green][B] STUDIO UNIVERSAL (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-studio-universal/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s32.postimg.org/uxw1c6411/studiouniversal.png</thumbnail>
+<fanart>http://i.imgur.com/9hsUM24.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR green][B] STUDIO UNIVERSAL (PXSTREAM 2) MWINFO[/B][/COLOR]</title>
+    <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-studio-universal/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+    <regex>
+    <name>Igor_Rangel_IP</name>
+    <expres>source: 'http://(.*)/loa</expres>
+    <page>http://pxstream.tv/embed.php?file=MWINFO</page>
+    <referer>http://ekostreams.co/</referer>
+    </regex>
+    <regex>
+    <name>Igor_Rangel_AuthSign</name>
+    <expres>m3u8(.*)'</expres>
+    <page>http://pxstream.tv/embed.php?file=MWINFO</page>
+    <referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail>http://s32.postimg.org/uxw1c6411/studiouniversal.png</thumbnail>
+<fanart>http://i.imgur.com/9hsUM24.png</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR purple][B] SYFY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/56962667793296852617/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s32.postimg.org/5h3fk43pt/Sy_Fy.png</thumbnail>
+<fanart>http://s32.postimg.org/5h3fk43pt/Sy_Fy.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B] TBS (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/82295668652937242323/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s31.postimg.org/hj4nfr0az/tbs.png</thumbnail>
+<fanart>http://i.imgur.com/LNI5rDH.png</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR green][B]TCM (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s3.postimg.org/7gqpaco0z/TCM.png</thumbnail>
+<fanart>http://i.imgur.com/NBFvggW.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE ACTION (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s9.postimg.org/vd00n5o4b/telecineaction.png</thumbnail>
+<fanart>http://i.imgur.com/iKtkvqt.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B] TELECINE ACTION (OP 3) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s9.postimg.org/vd00n5o4b/telecineaction.png</thumbnail>
+<fanart>http://i.imgur.com/iKtkvqt.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B] TELECINE ACTION (OP 4) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer?</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tcacionaovivo2/1/640/360</page>
+<referer>http://www.p3g.tv/</referer>
+</regex>
+<thumbnail>http://s9.postimg.org/vd00n5o4b/telecineaction.png</thumbnail>
+<fanart>http://i.imgur.com/iKtkvqt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B] TELECINE CULT (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>https://s26.postimg.org/hh1dsk6ux/telecinecult.png</thumbnail>
+<fanart>http://i.imgur.com/EBRWotP.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B] TELECINE CULT (PXSTREAM) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[get-ip]/loadbalance/notcult/chunks.m3u8$doregex[get-wms]|User-Agent=Mozilla/5.0</link><regex><name>get-ip</name><expres>(.*)</expres><page>http://balancer.pxstream.tv:2082/free/getBestServer</page></regex><regex><name>get-wms</name><expres>m3u8(.*)'</expres><page>http://pxstream.tv/embed/ck4rc2s3acwh/</page><referer>http://ekostreams.co/</referer></regex>
+<thumbnail>https://s26.postimg.org/hh1dsk6ux/telecinecult.png</thumbnail>
+<fanart>http://i.imgur.com/EBRWotP.png</fanart>
+</item>
+
+<item>
+<title>[COLOR blue][B] TELECINE CULT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/notcult/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s26.postimg.org/hh1dsk6ux/telecinecult.png</thumbnail>
+<fanart>http://i.imgur.com/EBRWotP.png</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B] TELECINE FUN (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/hv0f9naxn/telecinefun.png</thumbnail>
+<fanart>http://i.imgur.com/zBiXE1Y.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR yellow][B] TELECINE FUN (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/hv0f9naxn/telecinefun.png</thumbnail>
+<fanart>http://i.imgur.com/zBiXE1Y.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white][B] TELECINE PIPOCA (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png</thumbnail>
+<fanart>http://i.imgur.com/6VsEFZT.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B] TELECINE PIPOCA (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png</thumbnail>
+<fanart>http://i.imgur.com/6VsEFZT.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE PREMIUM (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/lig6fpj4r/telecinepremium.png</thumbnail>
+<fanart>http://i.imgur.com/sUQHWqO.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE PREMIUM (OP 2) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/lig6fpj4r/telecinepremium.png</thumbnail>
+<fanart>http://i.imgur.com/sUQHWqO.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE PREMIUM (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer?</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvtcpremumaovivo/1/640/360</page>
+<referer>http://www.p3g.tv/</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/lig6fpj4r/telecinepremium.png</thumbnail>
+<fanart>http://i.imgur.com/sUQHWqO.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE PREMIUM (OP 2) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/$doregex[Mw_Info_1]/$doregex[Mw_Info_2]/$doregex[Mw_Info_3]/360</page><referer>http://www.p3g.tv</referer></regex><regex><name>Mw_Info_1</name><expres>channel='(.*)',</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Mw_Info_2</name><expres>g='(.*)';</expres><page>$doregex[Mw_Info_Ch]</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex><regex><name>Mw_Info_3</name><expres>hs = (.*);</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex>
+<name>Mw_Info_Ch</name><expres>(.*)</expres>
+<page>http://igorlista.at.ua/Canais_SD/TcPremium_p3g.html</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/lig6fpj4r/telecinepremium.png</thumbnail>
+<fanart>http://i.imgur.com/sUQHWqO.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] TELECINE PREMIUM (OP 3) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer?</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/tvtcpremumaovivo/1/640/360</page>
+<referer>http://www.p3g.tv/</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/lig6fpj4r/telecinepremium.png</thumbnail>
+<fanart>http://i.imgur.com/sUQHWqO.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR green][B] TELECINE TOUCH (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>(.*)</expres>
+<page>http://balancer.pxstream.tv:2082/free/getBestServer</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8([^\"].*)'</expres>
+<page>http://pxstream.tv/embed/s2gz6dzd4kqs/</page>
+<referer>http://ekostreams.co/ch/bobo.php?width=600&height=384</referer>
+</regex>
+<thumbnail>http://s17.postimg.org/gva4dxvrv/telecinetouch.png</thumbnail>
+<fanart>http://i.imgur.com/r78XFtq.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR green][B] TELECINE TOUCH (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>http://s17.postimg.org/gva4dxvrv/telecinetouch.png</thumbnail>
+<fanart>http://i.imgur.com/r78XFtq.png</fanart>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow][B] TNT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s26.postimg.org/8z71s16t5/image.png</thumbnail>
+<fanart>http://i.imgur.com/E7InVsz.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B]UNIVERSAL CHANNEL (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/universalch/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s31.postimg.org/6ktxs1ci3/universal.png</thumbnail>
+<fanart>http://i.imgur.com/V8qJfMP.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue][B] WARNER (OP 1) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
+<regex>
+<name>Igor_Rangel_ch</name>
+<expres>channel='(.*)',</expres>
+<page>http://aovivonatv.com/assistir-warner-channel-ao-vivo-24-horas-gratis/opmobile/5637/</page>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.p3gpublish.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>/Igor_Rangel/playlist.m3u8?(.*?)"</expres>
+<page>http://www.p3g.tv/membedplayer/Igor_Rangel/1/500/400</page>
+<referer>http://www.p3g.tv</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s32.postimg.org/3ydi8ai9h/warner2.png</thumbnail>
+<fanart>http://i.imgur.com/wP8qFop.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR blue][B] WARNER (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/warnerchannel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres> = "http://(.*)/loa</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8?(.*)"</expres>
+<page>http://aovivonatv.com/assistir-globo-sp-ao-vivo-24-horas-online/?IGOR_RANGEL</page>
+<referer>http://aovivonatv.com/</referer>
+<agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
+</regex>
+<thumbnail>https://s32.postimg.org/3ydi8ai9h/warner2.png</thumbnail>
+<fanart>http://i.imgur.com/wP8qFop.jpg</fanart>
+</item>
+
+
+
+
+
+
