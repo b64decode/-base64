@@ -138,7 +138,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] ANIMAL PLANET (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR orange][B] ANIMAL PLANET [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/69735896668385822443/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -160,7 +160,7 @@
 
 
 <item>
-<title>[COLOR white][B] DISCOVERY CHANNEL </title>
+<title>[COLOR orange][B] DISCOVERY CHANNEL [/B][/COLOR]      [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/discovery-channel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -185,7 +185,7 @@
 
 
 <item>
-<title>[COLOR blue][B] DISCOVERY CIVILIZATION </title>
+<title>[COLOR orange][B] DISCOVERY CIVILIZATION [/B][/COLOR]      [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/discovery-civilization/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -209,7 +209,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] DISCOVERY HOME AND HEALTH [/B][/COLOR]</title>
+<title>[COLOR orange][B] DISCOVERY HOME AND HEALTH [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/89211275177427327596/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -232,7 +232,7 @@
 
 
 <item>
-<title>[COLOR green][B] DISCOVERY SCIENCE </title>
+<title>[COLOR orange][B] DISCOVERY SCIENCE  [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/discovery-science/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -256,7 +256,7 @@
 
 
 <item>
-<title>[COLOR white][B] DISCOVERY THEATER [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR orange][B] DISCOVERY THEATER [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/27165246378219683947/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -283,7 +283,7 @@
 
 
 <item>
-<title>[COLOR blue][B]DISCOVERY TURBO [/B][/COLOR]</title>
+<title>[COLOR orange][B]DISCOVERY TURBO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/82139725129786353134/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -305,7 +305,7 @@
 
 
 <item>
-<title>[COLOR green][B] HISTORY [/B][/COLOR]</title>
+<title>[COLOR orange][B] HISTORY [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -323,7 +323,7 @@
 </item>
 
 <item>
-<title>[COLOR green][B] HISTORY [/B][/COLOR]</title>
+<title>[COLOR orange][B] HISTORY [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/history-channel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -345,7 +345,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] H2 [/B][/COLOR]</title>
+<title>[COLOR orange][B] H2 [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/h2-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -368,7 +368,7 @@
 
 
 <item>
-<title>[COLOR white][B] ID [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR orange][B] ID [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/investigation-discovery/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -390,7 +390,7 @@
 
 
 <item>
-<title>[COLOR white][B] ID [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR orange][B] ID [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/$doregex[Mw_Info_1]/$doregex[Mw_Info_2]/$doregex[Mw_Info_3]/360</page><referer>http://www.p3g.tv</referer></regex><regex><name>Mw_Info_1</name><expres>channel='(.*)',</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Mw_Info_2</name><expres>g='(.*)';</expres><page>$doregex[Mw_Info_Ch]</page>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex><regex><name>Mw_Info_3</name><expres>hs = (.*);</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex>
@@ -408,7 +408,7 @@
 
 
 <item>
-<title>[COLOR blue][B] NATIONAL GEOGRAFIC [/B][/COLOR]</title>
+<title>[COLOR orange][B] NATIONAL GEOGRAFIC [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/64795594976712369413/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -430,7 +430,7 @@
 
 
 <item>
-<title>[COLOR green][B] NAT GEO WILD [/B][/COLOR]</title>
+<title>[COLOR orange][B] NAT GEO WILD [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/78487317296624812831/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -453,7 +453,7 @@
 
 
 <item>
-<title>[COLOR red][B] TV CLIMA   [/B][/COLOR]</title>
+<title>[COLOR orange][B] TV CLIMA   [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8</link>
 
 <thumbnail>http://www.tvclima.com/images/logo_tv.png</thumbnail>
