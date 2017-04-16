@@ -2,69 +2,75 @@
 
 
 
+
 <item>
-<item>
-<title>[COLOR=magenta][B][I] AXN [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axn1x?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450</link>
+<title>[COLOR magenta][B][I]  AXN [/I][/B][/COLOR] </title>
+<link>$doregex[select_Url]</link>
 <regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
 </regex>
 <regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axn1x/1/650/450</page>
-<referer>http://www.embeducaster.com/</referer>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/axn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/axn.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+</regex>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
-</regex>
 </item>
 
 <item>
-<title>[COLOR magenta][B][I]  AXN [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://mytvfree2.me/axn-online</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil>
+<title>[COLOR magenta][B][I]  AXN [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil></sportsdevil>
+
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR=magenta][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR yellow][/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2309.m3u8 </link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
-</regex>
-</item> 
 
 
 <item>
-<title>[COLOR=magenta][B][I] AXN WHITE [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=axnwhitex?id=77969&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
-</regex>
-</item>
+<title>[COLOR magenta][B][I]  AXN magenta [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil></sportsdevil>
 
-<item>
-<title>[COLOR magenta][B][I]  AXN WHITE [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://mytvfree2.me/canais/axn-white-online</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
-<sportsdevil>http://tvgratis.16mb.com/axn-wite.html</sportsdevil>
 <referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnwhitehd.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnmagentahd.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR magenta][B][I]  AMC [/I][/B][/COLOR] </title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+</regex>
+<thumbnail>https://s20.postimg.org/kix47j1dp/AMC_2013.png</thumbnail>
+</item>
 
 
 <item>
@@ -86,9 +92,8 @@
 
 
 <item>
-<title>[COLOR magenta][B][I]  FOX [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
-<sportsdevil>http://www.desportonline.com/index.php?canal=fox</sportsdevil>
+<title>[COLOR magenta][B][I]  FOX [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+
 <referer>http://escast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </item>
@@ -113,21 +118,13 @@
 
 
 <item>
-<title>[COLOR magenta][B][I]  FOX MOVIES [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=foxmovies</sportsdevil>
+<title>[COLOR magenta][B][I]  FOX MOVIES [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR=magenta][B][I]  FOX CRIME HD [/I][/B][/COLOR] [COLOR yellow] [/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2314.m3u8</link>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
-</item> 
 
 <item>
 <title>[COLOR=magenta][B][I] FOX CRIME [/I][/B][/COLOR]</title>
@@ -147,7 +144,7 @@
 
 
 <item>
-<title>[COLOR magenta][B][I]  FOX CRIME [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR magenta][B][I]  FOX CRIME [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
@@ -173,102 +170,241 @@
 
 
 <item>
-<title>[COLOR magenta][B][I] FOX LIFE  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR magenta][B][I] FOX LIFE  [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/foxlife</sportsdevil>
 <referer>http://liveflashplayer.com/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
 </item>
 
 
-<item> 
-<title>[COLOR=magenta][B][I]  FOX COMEDY   [/I][/B][/COLOR] [COLOR yellow] [/COLOR]  </title>
-
-<link>http://149.202.201.221:8000/live/3w2xp/ure3d/2311.m3u8 </link>
-
-<thumbnail>http://quinto-canal.com/wp-content/uploads/2015/11/FOX-Comedy-Portugal.jpg</thumbnail>
+<item>
+<title>[COLOR=magenta][B][I] HOLLYWOOD [/I][/B][/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
 </regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/Canal-Hollywood-40-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/Canal-Hollywood-40-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 </item>
 
 
-<item> 
-<title>[COLOR=magenta][B][I] HOLLYWOOD [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=hollywoodx?id=84769&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
-</regex>
-<item>
-
-
 
 <item>
-<title>[COLOR magenta][B][I]  HOLLYWOOD [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/hollywood</sportsdevil>
+<title>[COLOR magenta][B][I]  HOLLYWOOD [/I][/B][/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </regex>
 <item>
 
 
+<item>
+<title>[COLOR blmagentaue] [I] TV CINE 1 [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-133-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-133-2</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+</regex>
+</item>
+
+
+
 
 <item>
-<title>[COLOR blmagentaue] [I] TV CINE 1 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://tvc1-pedro-solder.blogspot.nl/</sportsdevil>
-<sportsdevil></sportsdevil>
+<title>[COLOR blmagentaue] [I] TV CINE 1 [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TvCine1-133</sportsdevil>
+
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine1.png</thumbnail>
+
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 2 [/I] [/COLOR]</title>
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-141-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-141-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 </regex>
 </item>
 
 
 
 <item>
-<title>[COLOR magenta] [I] TV CINE 2 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR magenta] [I] TV CINE 2 [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TvCine2-141</sportsdevil>
 
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine2.png</thumbnail>
 </item>
 
 
+
+
+
+
 <item>
-<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR]</title>
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-135-1</page>
+<referer>http://www.tvgente.in/</referer>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-135-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 3 [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TvCine3-135</sportsdevil>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine3.png</thumbnail>
 </item>
 
 
+
 <item>
-<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR]</title>
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-136-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvCine2-136-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR magenta] [I] TV CINE 4 [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TvCine4-136</sportsdevil>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvcine4.png</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil></sportsdevil>
-<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
-</item>
+
 
 
 <item>
-<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil></sportsdevil>
-
+<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR]</title>
 <thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvSeries-137-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/TvSeries-137-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 </regex>
 </item>
 
+
+
+
+
 <item>
-<title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR magenta] [I] TV SERIES [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TvSeries-137</sportsdevil>
+<thumbnail>http://www.pcteckserv.com/GrupoKodi/Logos/tvseries.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR magenta] [I] CINEMUNDO [/I] [/COLOR] [COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil></sportsdevil>
 
@@ -279,7 +415,7 @@
 
 
 <item>
-<title>[COLOR magenta] [I] SYFY HD [/I] [/COLOR][COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR magenta] [I] SYFY HD [/I] [/COLOR][COLOR magenta](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil></sportsdevil>
 <thumbnail>http://vignette4.wikia.nocookie.net/memoryalpha/images/c/c9/Syfy.png/revision/latest?cb=20100219134730&path-prefix=en</thumbnail>
@@ -288,11 +424,6 @@
 
 
 
-<item>
-<title>[COLOR magenta] [I]TELECINE PIPOCA BR[/I] [/COLOR] [COLOR=lime]  [/COLOR]</title>
-<link>rtmp://208.53.164.194/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/tvpediabrasil/images/7/76/Telecinepipoca.jpg/revision/latest?cb=20140515150953&path-prefix=pt-br</thumbnail>
-</item>
 
 
 
@@ -341,7 +472,7 @@
 
 
 <item>
-<title>[COLOR purple][B]CANAL BRASIL (AOVIVONATV)  MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B]CANAL BRASIL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/brasilhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -363,7 +494,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] CINEMAX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] CINEMAX [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/cinemax-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -387,8 +518,8 @@
 
 
 <item>
-<title>[COLOR lime][B]CINE GOSPEL 24HS MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
-<link>http://stmv2.euroti.com.br:1935/tvmaceio/tvmaceio/live.m3u8?MWINFO</link>
+<title>[COLOR magenta][B]CINE GOSPEL 24HS [/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<link>http://stmv2.euroti.com.br:1935/tvmaceio/tvmaceio/live.m3u8?</link>
 <thumbnail>https://s26.postimg.org/wva6jtebd/gospel2.png</thumbnail>
 <fanart>https://s26.postimg.org/wva6jtebd/gospel2.png</fanart>
 </item>
@@ -396,7 +527,7 @@
 
 
 <item>
-<title>[COLOR blue][B] FOX (AOVIVONATV) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR magenta][B] FOX [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/foxhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -420,7 +551,7 @@
 
 
 <item>
-<title>[COLOR blue][B] FOX (OP 3) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR magenta][B] FOX (OP 3) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -445,7 +576,7 @@
 
 
 <item>
-<title>[COLOR blue][B] FOX LIFE (AOVIVONATV) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]</title>
+<title>[COLOR magenta][B] FOX LIFE [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/25384374416532833464/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -466,7 +597,7 @@
 </item>
 
 <item>
-<title>[COLOR green][B] FX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] FX [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/fx-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -490,7 +621,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] HBO (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbohd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -515,7 +646,7 @@
 
 
 <item>
-<title>[COLOR white][B] HBO 2 (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO 2 [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbo-2/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -539,7 +670,7 @@
 
 
 <item>
-<title>[COLOR blue][B] HBO FAMILY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO FAMILY [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hbofamily/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -563,7 +694,7 @@
 
 
 <item>
-<title>[COLOR green][B] HBO PLUS (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO PLUS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -582,7 +713,7 @@
 </item>
 
 <item>
-<title>[COLOR green][B] HBO PLUS (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO PLUS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/hboplus/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -607,7 +738,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] HBO SIGNATURE (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO SIGNATURE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -627,7 +758,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] HBO SIGNATURE (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] HBO SIGNATURE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/108/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -654,7 +785,7 @@
 
 
 <item>
-<title>[COLOR green][B]LIFE TIME (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B]LIFE TIME [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/53878483127642847157/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -677,7 +808,7 @@
 
 
 <item>
-<title>[COLOR white][B] MAX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] MAX [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-max-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -703,7 +834,7 @@
 
 
 <item>
-<title>[COLOR blue][B] MAX PRIME (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] MAX PRIME [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxprime/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -729,7 +860,7 @@
 
 
 <item>
-<title>[COLOR green][B] MAX UP (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] MAX UP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/maxup/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -753,7 +884,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] MEGAPIX (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] MEGAPIX [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/megapixhd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -777,7 +908,7 @@
 
 
 <item>
-<title>[COLOR blue][B]PARAMOUNT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B]PARAMOUNT [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/paramount/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -804,7 +935,7 @@
 
 
 <item>
-<title>[COLOR white][B] SONY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] SONY [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/55987292618779665195/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -828,7 +959,7 @@
 
 
 <item>
-<title>[COLOR blue][B] SPACE (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] SPACE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/spacehd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -854,7 +985,7 @@
 
 
 <item>
-<title>[COLOR green][B] STUDIO UNIVERSAL (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] STUDIO UNIVERSAL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-studio-universal/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -876,7 +1007,7 @@
 
 
 <item>
-<title>[COLOR green][B] STUDIO UNIVERSAL (PXSTREAM 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] STUDIO UNIVERSAL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
     <link>http://$doregex[Igor_Rangel_IP]/loadbalance/canal-studio-universal/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
     <regex>
     <name>Igor_Rangel_IP</name>
@@ -899,7 +1030,7 @@
 
 
 <item>
-<title>[COLOR purple][B] SYFY (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] SYFY [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/56962667793296852617/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -923,7 +1054,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] TBS (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TBS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/82295668652937242323/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -947,7 +1078,7 @@
 
 
 <item>
-<title>[COLOR green][B]TCM (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B]TCM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/tcm-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -970,7 +1101,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE ACTION (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE ACTION [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -992,7 +1123,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE ACTION (OP 3) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE ACTION [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecineaction/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1012,7 +1143,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE ACTION (OP 4) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE ACTION [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -1030,7 +1161,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B] TELECINE CULT (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE CULT [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/78821716219658219924/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1050,14 +1181,14 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE CULT (PXSTREAM) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE CULT [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[get-ip]/loadbalance/notcult/chunks.m3u8$doregex[get-wms]|User-Agent=Mozilla/5.0</link><regex><name>get-ip</name><expres>(.*)</expres><page>http://balancer.pxstream.tv:2082/free/getBestServer</page></regex><regex><name>get-wms</name><expres>m3u8(.*)'</expres><page>http://pxstream.tv/embed/ck4rc2s3acwh/</page><referer>http://ekostreams.co/</referer></regex>
 <thumbnail>https://s26.postimg.org/hh1dsk6ux/telecinecult.png</thumbnail>
 <fanart>http://i.imgur.com/EBRWotP.png</fanart>
 </item>
 
 <item>
-<title>[COLOR blue][B] TELECINE CULT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE CULT [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/notcult/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1078,7 +1209,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] TELECINE FUN (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE FUN [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1097,7 +1228,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] TELECINE FUN (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE FUN [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinefun/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1121,7 +1252,7 @@
 
 
 <item>
-<title>[COLOR white][B] TELECINE PIPOCA (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PIPOCA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1140,7 +1271,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] TELECINE PIPOCA (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PIPOCA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepipoca/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1167,7 +1298,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE PREMIUM (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PREMIUM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1191,7 +1322,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE PREMIUM (OP 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PREMIUM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinepremium/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1215,7 +1346,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE PREMIUM (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PREMIUM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -1235,7 +1366,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE PREMIUM (OP 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PREMIUM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/$doregex[Mw_Info_1]/$doregex[Mw_Info_2]/$doregex[Mw_Info_3]/360</page><referer>http://www.p3g.tv</referer></regex><regex><name>Mw_Info_1</name><expres>channel='(.*)',</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Mw_Info_2</name><expres>g='(.*)';</expres><page>$doregex[Mw_Info_Ch]</page>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex><regex><name>Mw_Info_3</name><expres>hs = (.*);</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex>
@@ -1251,7 +1382,7 @@
 
 
 <item>
-<title>[COLOR blue][B] TELECINE PREMIUM (OP 3) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE PREMIUM [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -1270,7 +1401,7 @@
 
 
 <item>
-<title>[COLOR green][B] TELECINE TOUCH (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE TOUCH [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1290,7 +1421,7 @@
 
 
 <item>
-<title>[COLOR green][B] TELECINE TOUCH (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TELECINE TOUCH [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/telecinetouch/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1317,7 +1448,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] TNT (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] TNT [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/tnthd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1341,7 +1472,7 @@
 
 
 <item>
-<title>[COLOR yellow][B]UNIVERSAL CHANNEL (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B]UNIVERSAL CHANNEL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/universalch/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -1365,7 +1496,7 @@
 
 
 <item>
-<title>[COLOR blue][B] WARNER (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] WARNER [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -1391,7 +1522,7 @@
 
 
 <item>
-<title>[COLOR blue][B] WARNER (AOVIVONATV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR magenta][B] WARNER [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/warnerchannel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
