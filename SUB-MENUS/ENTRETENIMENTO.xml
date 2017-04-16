@@ -523,6 +523,25 @@ http://i.imgur.com/R73aMDP.png
 <thumbnail>http://i.imgur.com/R73aMDP.png</thumbnail>
 </item>
 
+
+
+
+<item>
+<title>[COLOR white][B] RECORD SP [/B][/COLOR]  [COLOR yellow][B] BR [/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TV-Record-99</sportsdevil>
+
+<referer>http://www.mytvfree4.me/ver/tvi-reality-24h</referer>
+<thumbnail>http://listaiptvbrasil.com/logos/recordtv.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white][B] RECORD SP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
