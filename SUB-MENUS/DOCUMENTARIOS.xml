@@ -85,9 +85,7 @@
 <item>
 <title>[COLOR=orange][B][I] NATIONAL GEOGRAPHIC [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=nationalgeographic</sportsdevil>
-<sportsdevil>http://www.winpt.com/national-geographic-channel-online/</sportsdevil>
+
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
 </item>
@@ -96,20 +94,13 @@
 
 <item>
 <title>[COLOR orange] [I] NAT GEO WILD [/I] [/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.wildsafarilive.com/</sportsdevil>
-<sportsdevil>http://mytvfree2.me/natgeo-wild-brasil</sportsdevil>
+
 <sportsdevil>http://samistream.tv/nat-geo-wild-live-tv.php</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypptyq1433943719.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR orange][B][I]  ODISSEIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=odisseia</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/odisseia.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR=orange][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
@@ -133,39 +124,4 @@
 <item> 
 
 
-<item>
-<title>[COLOR yellow] [B] CANAL CAZA Y PESCA [/B] [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<fanart></fanart>
-<thumbnail>http://i739.phet.com/albums/xx33/catoal/cptohd.jpg</thumbnail>
-</item>
 
-
-
-
-
-<item>
-<title>[COLOR yellow] [B] CANAL+TOROS [/B] [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<fanart></fanart>
-<thumbnail>http://www.mundillo-taurino.com/medias/images/canaltoros-2.jpg?fx=r_300_225</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR yellow] [B] CANAL+TOROS [/B] [/COLOR]</title>
-<link>http://cdn.sitenow.me/live/toros_9frbv56/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
-<thumbnail>http://www.mundillo-taurino.com/medias/images/canaltoros-2.jpg?fx=r_300_225</thumbnail>
-</item>
- 
-
-
-<item>
-<title>[COLOR yellow] [B] VIAJAR TV [/B] [/COLOR]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/documentales/viajartv.php</sportsdevil>
-<referer>http://cinestrenostv.tv/</referer>
-<fanart></fanart>
-<thumbnail>http://cinestrenostv.tv/img/viajar.png</thumbnail>
-</item>
