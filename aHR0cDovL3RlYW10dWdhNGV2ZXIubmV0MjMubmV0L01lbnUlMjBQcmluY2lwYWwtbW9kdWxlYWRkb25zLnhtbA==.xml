@@ -16,10 +16,16 @@
 <thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
 </item>
 
-[COLOR white][B]PROCURAR[/COLOR][/B]
+<item>
+<title>  </title>
+<link>http://MENU0.me</link>
+<externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
+<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
+<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+</item>
 
 <item>
-<title>[COLOR white][B]PROCURAR[/COLOR][/B]</title
+<title>                                   [COLOR white][B]PROCURAR[/COLOR][/B]</title
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
 <thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
