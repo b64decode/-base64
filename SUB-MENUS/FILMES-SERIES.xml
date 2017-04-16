@@ -554,7 +554,7 @@ http://i.imgur.com/E2zDZKy.jpg
 
 
 <item>
-<title>[COLOR magenta][B] FOX (OP 3) MWINFO[/B][/COLOR][COLOR Grey][B][/B][/COLOR]                                       [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR magenta][B] FOX (OP 3) [/B][/COLOR][COLOR Grey][B][/B][/COLOR]                                       [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -1015,13 +1015,13 @@ http://i.imgur.com/9hsUM24.png
     <regex>
     <name>Igor_Rangel_IP</name>
     <expres>source: 'http://(.*)/loa</expres>
-    <page>http://pxstream.tv/embed.php?file=MWINFO</page>
+    <page>http://pxstream.tv/embed.php?file=</page>
     <referer>http://ekostreams.co/</referer>
     </regex>
     <regex>
     <name>Igor_Rangel_AuthSign</name>
     <expres>m3u8(.*)'</expres>
-    <page>http://pxstream.tv/embed.php?file=MWINFO</page>
+    <page>http://pxstream.tv/embed.php?file=</page>
     <referer>http://ekostreams.co/</referer>
 </regex>
 <thumbnail>http://s32.postimg.org/uxw1c6411/studiouniversal.png</thumbnail>

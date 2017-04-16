@@ -6,7 +6,7 @@
 
 
 <item>
-<title>[COLOR=grey][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime][/COLOR]  </title>
+<title>[COLOR=yellow][B][I] DISNEY JUNIOR  [/I][/B][/COLOR]    [COLOR=lime][/COLOR]  </title>
 
 <link>http://163.172.42.47:8000/live/antonioSAT/diasSAT/55.m3u8</link>
 
@@ -22,7 +22,7 @@
 
 
 <item>
-<title>[COLOR=grey][B][I] DISNEY CHANNEL HD[/I][/B][/COLOR]     [COLOR=lime][/COLOR]    </title>
+<title>[COLOR=yellow][B][I] DISNEY CHANNEL HD[/I][/B][/COLOR]     [COLOR=lime][/COLOR]    </title>
 
 <link>http://149.202.201.221:8000/live/3w2xp/ure3d/2368.m3u8 </link>
 
@@ -38,7 +38,7 @@
 
 
 <item>
-<title>[COLOR=grey][B][I] DISNEY CHANNEL BR [/I][/B][/COLOR]</title>
+<title>[COLOR=yellow][B][I] DISNEY CHANNEL BR [/I][/B][/COLOR]</title>
 <link>http://213.163.65.116:8081/live/cartoon/playlist.m3u8</link>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>
@@ -57,7 +57,7 @@
 
 
 <item>
-<title>[COLOR grey] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR yellow] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 <sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
 
 
@@ -74,7 +74,7 @@
 
 
 <item>
-<title>[COLOR grey][B][I]  ZIGZAG [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR yellow][B][I]  ZIGZAG [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>https://www.rtp.pt/play/zigzag/direto/tv</sportsdevil>
 
 <referer>http://ucaster.eu/</referer>
@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR grey][B] BOOMERANG [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] BOOMERANG [/B][/COLOR][COLOR yellow][B][/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/boomerang/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -113,7 +113,7 @@
 
 
 <item>
-<title>[COLOR grey][B] CARTOON NETWORK[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] CARTOON NETWORK[/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/cartoon-network/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -134,7 +134,7 @@
 </item>
 
 <item>
-<title>[COLOR grey][B] GLOOB [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] GLOOB [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/gloob-hd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -155,7 +155,7 @@
 </item>
 
 <item>
-<title>[COLOR grey][B] DISCOVERY KIDS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] DISCOVERY KIDS [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -175,7 +175,7 @@
 
 
 <item>
-<title>[COLOR grey][B]DISCOVERY KIDS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B]DISCOVERY KIDS [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/pfh1/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -197,7 +197,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY CHANNEL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] DISNEY CHANNEL [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-channel/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -219,7 +219,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY JUNIOR [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] DISNEY JUNIOR [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-junior/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -242,7 +242,7 @@
 
 
 <item>
-<title>[COLOR grey][B] DISNEY XD [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] DISNEY XD [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/disney-xd/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -266,7 +266,7 @@
 
 
 <item>
-<title>[COLOR grey][B] NICK [/B][/COLOR][COLOR Grey][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] NICK [/B][/COLOR][COLOR yellow][B][/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -291,7 +291,7 @@
 
 
 <item>
-<title>[COLOR grey][B] NICK JR [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] NICK JR [/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_IP]/loadbalance/nick-jr/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>Igor_Rangel_IP</name>
@@ -313,7 +313,7 @@
 
 
 <item>
-<title>[COLOR grey][B] RATIMBUM[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
+<title>[COLOR yellow][B] RATIMBUM[/B][/COLOR]     [COLOR white][B] BR [/B][/COLOR]</title>
 <link>rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chcasteloratimbum/2012/05/07/259bec05-1e02-4861-be50-6df7cd5a534d swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://tvonlinebtv.net/streans/castelo.html</link>
 <thumbnail>http://logosc.ucoz.com/tv-ra-tim-bum.png</thumbnail>
 
