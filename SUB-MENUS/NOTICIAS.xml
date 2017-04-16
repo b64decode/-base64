@@ -10,7 +10,6 @@
 <title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=red](WebTV)[/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
 
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
@@ -34,7 +33,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 </item>
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
@@ -43,7 +42,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
 
@@ -52,7 +51,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
 
@@ -61,7 +60,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil>http://www.meocanaltv.com/canais.php?stream=TVI24</sportsdevil>
 
@@ -70,7 +69,7 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil>http://firstrowne.eu/watch/423640/1/watch-sl-benfica-vs-basquete-de-barcelos.html</sportsdevil>
 
