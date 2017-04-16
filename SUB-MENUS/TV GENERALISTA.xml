@@ -14,6 +14,20 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
 
+
+
+
+<item>
+<title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
+<link>https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+</item>
+
+
+
+
+
+
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
