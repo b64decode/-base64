@@ -1,8 +1,41 @@
 
-
- 
 <item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=red](WebTV)[/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=red](WebTV)[/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
+
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=red](WebTV)[/COLOR]</title>
+
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]   </title>
+<link>
+sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8#
+sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8#
+sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8#
+</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
 <sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
 <sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
@@ -11,13 +44,8 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]      [COLOR=orange][/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8</link>
-<link>http://46.126.71.153:8000/play/a01k</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
+
+
 
 
 <item>
