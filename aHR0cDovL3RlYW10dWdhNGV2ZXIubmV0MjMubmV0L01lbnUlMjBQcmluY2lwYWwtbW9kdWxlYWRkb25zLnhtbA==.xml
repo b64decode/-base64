@@ -12,8 +12,8 @@
 <title>                                   [COLOR lime][B]UPDATE 28-02-2017[/COLOR][/B] </title>
 <link>http://Movies.me</link>
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+<thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
+<fanart>https://lh4.googleusercontent.com/tG55nOBqJcnOrL_m1Elza4s1hoegF-CVusAFgRKVL-za4vSqpnzLK_rUOQQfZwoEujoC7BUODQ=s640-h400-e365</fanart>
 </item>
 
 <item>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>                                   [COLOR white][B]PROCURAR[/COLOR][/B]</title
+<title>                                        [COLOR white][B]PROCURAR[/COLOR][/B]</title
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
 <thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
