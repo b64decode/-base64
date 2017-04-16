@@ -94,75 +94,22 @@
 
 
 
-<item>
-<title>[COLOR white] [I] TV GLOBO BRASIL [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.tv-ao-vivo.org/tv-online-gratis-tv-globo-portugal-online.html</sportsdevil>
-<sportsdevil>http://www.assistirtvbr.tv/canal/globo-rj.html</sportsdevil>
-<referer></referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvif.png</thumbnail>
-</item>
-
 
 <item>
-<title>[COLOR white] [I] TV RECORD BRASIL [/I] [/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-
-<link>rtmp://wz3.dnip.com.br/tvgazetamt/ playpath=tvgazetamt.sdp swfUrl=http://www.cxtv.com.br/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-online/tv-record</link>
-<regex>
-<name>file</name>
-<expres>sources.*\n.*HLS.*\n.*file: "(.*?)"</expres>
-<page>http://pxstream.tv/embed.php?file=record&referrer=http://ekostreams.co/ch/record.php&width=600&amp;height=384&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/record.php</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] SBT  [/I][/B][/COLOR]    [COLOR lime] BRASIL[/COLOR]    </title>
+<title>[COLOR=white][B][I] SBT  [/I][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8</link>
 <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ1KzzxQlB5bI2NxbHomvD-ruSMxH17BtX7l8iHsYXssxGhmxm</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR white] [I] REDE TV [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
-<link>rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1</link>
-<thumbnail>http://img4.wikia.nocookie.net/__cb20110305125842/logopedia/images/e/ec/RedeTV!.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] SPORTS DEVIL[/COLOR]</title>
-<sportsdevil>http://tv-ao-vivo.org/tv-online-gratis-tvi-reality-a-quinta-em-direto.html/</sportsdevil>
-<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
-</item> 
-
-<item>
-<title>[COLOR white] [I] BIG BROTHER OFF [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
-<link>http://31.204.128.112:8081/live/bbb/chunks.m3u8</link>
-<link>http://fastroot.ddns.net:8000/live/festas/festas/39.m3u8</link>
-<thumbnail>http://bbb2016.org/wp-content/uploads/2015/06/bbb2.jpg</thumbnail>
-</item> 
 
 
 <item>
-<title>[COLOR white] [I] BAND [/I] [/COLOR] [COLOR lime] BRASIL[/COLOR]</title>
-
-
-<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/chunklist.m3u8</link>
-<link></link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
-</item> 
-
-
-<item>
-<title>[COLOR=white][B][I] BAND BR [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]    </title>
+<title>[COLOR=white][B][I] BAND BR [/I][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
 </item> 
-<item>
-<title>[COLOR=white][B][I] BAND NEWS  [/I][/B][/COLOR]  [COLOR lime] BRASIL[/COLOR]        </title>
-<link></link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGQ8zPyWgMJ_MWUTIb2FYZ6Au6vhAKfYKd4oTFs5I9-QvSoreQ</thumbnail>
-</item>  
+
 
 
 
@@ -194,30 +141,30 @@
 
 
 <item>
-<title>[COLOR yellow][B] AGRO CANAL 576P MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] AGRO CANAL 576P MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://srvvenus.canaldoboi.com/liveac playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=liveac&largura=588&altura=464</link>
 <thumbnail>http://i.imgur.com/GYVBDo4.png</thumbnail>
-<fanart>http://i.imgur.com/GYVBDo4.png</fanart>
+http://i.imgur.com/GYVBDo4.png
 </item>
 
 
 <item>
-<title>[COLOR white][B] AMAZON SAT SD MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] AMAZON SAT SD MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8</link>
 <thumbnail>https://s20.postimg.org/w8h0qjwwt/amazon_sat.png</thumbnail>
-<fanart>https://s20.postimg.org/w8h0qjwwt/amazon_sat.png</fanart>
+https://s20.postimg.org/w8h0qjwwt/amazon_sat.png
 </item>
 
 <item>
-<title>[COLOR purple][B] A PLATEIA MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] A PLATEIA MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://srv-sh1.sisdera.com:1935/webtv/1_HD/live.m3u8</link>
 <thumbnail>http://s21.postimg.org/3u526gscj/foto13065_g.png</thumbnail>
-<fanart>http://s21.postimg.org/3u526gscj/foto13065_g.png</fanart>
+http://s21.postimg.org/3u526gscj/foto13065_g.png
 </item>
 
 
 <item>
-<title>[COLOR blue][B] BAND [/B][/COLOR]</title>
+<title>[COLOR white][B] BAND [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/agua1/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0$$lsname=BAND SP (AOVIVONATV)</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -234,7 +181,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s15.postimg.org/nvhe10jzb/band3.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Band-SP.png</fanart>
+http://logosc.ucoz.com/Band-SP.png
 </item>
 
 
@@ -242,40 +189,40 @@
 
 
 <item>
-<title>[COLOR blue][B] BAND PARÁ MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] BAND PARÁ MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/Band-SP.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Band-SP.png</fanart>
+http://logosc.ucoz.com/Band-SP.png
 </item>
 
 
 
 <item>
-<title>[COLOR green][B] CANAL DO BOI 576P MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] CANAL DO BOI 576P MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://srvvenus.canaldoboi.com/livecb playpath=livestream?adbe-live-event=liveevent swfUrl=http://live.sba1.com:8080/playern/player.swf live=1 pageUrl=http://live.sba1.com:8080/playern/?canal=livecb&largura=588&altura=464</link>
 <thumbnail>http://i.imgur.com/dnhL3tK.png</thumbnail>
-<fanart>http://i.imgur.com/dnhL3tK.png</fanart>
+http://i.imgur.com/dnhL3tK.png
 </item>
 
 
 <item>
-<title>[COLOR white][B] CHEF TV 720P MWINFO[/B][/COLOR][COLOR red][B][/B][/COLOR]</title>
+<title>[COLOR white][B] CHEF TV 720P MWINFO[/B][/COLOR][COLOR red][B][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <utube>rVfsP7ReK14</utube>?MWINFO
 <thumbnail>http://s20.postimg.org/ff0uqwm3d/chef_tv.png</thumbnail>
-<fanart>http://s20.postimg.org/ff0uqwm3d/chef_tv.png</fanart>
+http://s20.postimg.org/ff0uqwm3d/chef_tv.png
 </item>
 
 <item>
-<title>[COLOR green][B] FUTURA SD MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] FUTURA SD MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?MWINFO</link>
 <thumbnail>http://images.uncyc.org/commons/thumb/7/75/Futura.jpg/200px-Futura.jpg.png</thumbnail>
-<fanart>http://images.uncyc.org/commons/thumb/7/75/Futura.jpg/200px-Futura.jpg.png</fanart>
+http://images.uncyc.org/commons/thumb/7/75/Futura.jpg/200px-Futura.jpg.png
 </item>
 
 
 
 <item>
-<title>[COLOR green][B] GAZETA 720P (OP 1) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GAZETA 720P (OP 1) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
    <link>http://livestream-f.akamaihd.net$doregex[getPATH]master.m3u8?$doregex[getMAC]</link>
    <regex>
    <name>getPATH</name>
@@ -294,7 +241,7 @@
    <referer>http://livestream.com</referer>
    </regex>
    <thumbnail>http://s12.postimg.org/z7f0jjck9/gazeta2.png</thumbnail>
-   <fanart>http://s12.postimg.org/z7f0jjck9/gazeta2.png</fanart>
+   http://s12.postimg.org/z7f0jjck9/gazeta2.png
    </item>
    
  
@@ -302,16 +249,16 @@
 
 
  <item>
-<title>[COLOR green][B] GAZETA 720P (OP 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GAZETA 720P (OP 2) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?MWINFO</link>
 <thumbnail>http://s12.postimg.org/z7f0jjck9/gazeta2.png</thumbnail>
-<fanart>http://s12.postimg.org/z7f0jjck9/gazeta2.png</fanart>
+http://s12.postimg.org/z7f0jjck9/gazeta2.png
 </item>
 
 
 
 <item>
-<title>[COLOR white][B] GLOBO BAHIA (AOVIVOTV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO BAHIA (AOVIVOTV) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/tvbahiahd/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -328,12 +275,12 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
 <item>
-<title>[COLOR cyan][B] GLOBO BELÉM (AOVIVOTV) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO BELÉM (AOVIVOTV) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/canal-tv_liberal_hd_belem/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -350,13 +297,13 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
 
 <item>
-<title>[COLOR yellow][B] GLOBO MINAS [/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO MINAS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/canal-globo-minas-hd/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -373,7 +320,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -381,7 +328,7 @@
 
 
 <item>
-<title>[COLOR blue][B] GLOBO RBS [/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO RBS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/slv5/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -398,7 +345,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -407,7 +354,7 @@
 
 
 <item>
-<title>[COLOR green][B]GLOBO NORDESTE [/B][/COLOR]</title>
+<title>[COLOR white][B]GLOBO NORDESTE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/bobonordeste/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -424,7 +371,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -433,7 +380,7 @@
 	
 
 <item>
-<title>[COLOR yellow][B] GLOBO RJ [/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO RJ [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/boborj/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -450,7 +397,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -459,16 +406,16 @@
 
 
 <item>
-<title>[COLOR white][B]GLOBO SP MWINFO[/COLOR][/B]</title>
+<title>[COLOR white][B]GLOBO SP MWINFO[/COLOR][/B]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[rtmp]$doregex[m3u8]</link><regex><name>rtmp</name><expres>redirect=(.*)<expres><page>http://www.janjuapublisher.com:1935/loadbalancer?68223</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.janjuaplayer.com/sharedcdn/membedplayer/$doregex[MisterWil_1]/$doregex[MisterWil_2]/$doregex[MisterWil_3]/360/$doregex[MisterWil_4]</page></regex><regex><name>MisterWil_1</name><expres>channel='(.*)',</expres><page>$doregex[MisterWil_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>MisterWil_2</name><expres>g='(.*)';</expres><page>$doregex[MisterWil_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>MisterWil_3</name><expres>ths = (.*);</expres><page>$doregex[MisterWil_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex<name>MisterWil_4</name><expres>fid="(.*)"</expres><page>http://www.janjuaplayer.com/sharedcdn/sharedcdnEmbed.js?channel=$doregex[MisterWil_1]</page><referer>http://www.janjuaplayer.com/</referer></regex><regex><name>MisterWil_Ch</name><expres>(.*)</expres><page>http://igorlista.at.ua/Canais_SD/Globo_janjuaplayer.html</page>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex><fanart>http://s17.postimg.org/w75u3yg1n/globo2.png</fanart>
+</regex>http://s17.postimg.org/w75u3yg1n/globo2.png
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR white][B] GLOBO SP [/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO SP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/slv9/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -485,7 +432,7 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -499,7 +446,7 @@
 
 
 <item>
-<title>[COLOR white][B] GLOBO SP [/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO SP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/redebobo/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -516,12 +463,12 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
 <item>
-<title>[COLOR white][B] GLOBO SP (OP 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO SP (OP 2) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://94.176.148.234/live?token=$doregex[Mw_Info_Token] playpath=ver8b1f11ec23e010737aaed9  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf  pageUrl=http://abcast.net/wp.php?file=redebobo&width=468&height=360</link>
 <regex>
 <name>Mw_Info_Token</name>
@@ -530,24 +477,24 @@
 <referer>http://torcidatricolor.tv</referer>
 </regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>	
 
 <item>
-<title>[COLOR white][B] GLOBO SP (OP 3) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO SP (OP 3) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[rtmp]$doregex[m3u8]</link><regex><name>rtmp</name><expres>redirect=(.*)<expres><page>http://www.janjuapublisher.com:1935/loadbalancer?68223</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.janjuaplayer.com/sharedcdn/membedplayer/$doregex[Mw_Info_1]/$doregex[Mw_Info_2]/$doregex[Mw_Info_3]/360/$doregex[Mw_Info_4]</page></regex><regex><name>Mw_Info_1</name><expres>channel='(.*)',</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Mw_Info_2</name><expres>g='(.*)';</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex><name>Mw_Info_3</name><expres>ths = (.*);</expres><page>$doregex[Mw_Info_Ch]</page><agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent></regex><regex<name>Mw_Info_4</name><expres>fid="(.*)"</expres><page>http://www.janjuaplayer.com/sharedcdn/sharedcdnEmbed.js?channel=$doregex[Mw_Info_1]</page><referer>http://www.janjuaplayer.com/</referer></regex><regex><name>Mw_Info_Ch</name><expres>(.*)</expres><page>http://igorlista.at.ua/Canais_SD/Globo_janjuaplayer.html</page>
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
-</regex><fanart>http://igorlista.at.ua/fanart/globo.jpg</fanart>
+</regex>http://igorlista.at.ua/fanart/globo.jpg
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
 <item>
-<title>[COLOR white][B] GLOBO SP (TUDOTV OP 2) MWINFO[/B][/COLOR]</title>
+<title>[COLOR white][B] GLOBO SP (TUDOTV OP 2) MWINFO[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.p3gpublish.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.p3g.tv/membedplayer/$doregex[Brazuca_Play_1]/$doregex[Brazuca_Play_2]/$doregex[Brazuca_Play_3]/360</page><referer>http://www.p3g.tv</referer></regex><regex><name>Brazuca_Play_1</name><expres>channel='(.*)',</expres><page>$doregex[Brazuca_Play_Ch]</page></regex><regex><name>Brazuca_Play_2</name><expres>g='(.*)';</expres><page>$doregex[Brazuca_Play_Ch]</page></regex><regex><name>Brazuca_Play_3</name><expres>hs = (.*);</expres><page>$doregex[Brazuca_Play_Ch]</page></regex><regex><name>Brazuca_Play_Ch</name><expres>(.*)</expres><page>http://igorlista.at.ua/Canais_SD/Globo_p3g.html</page></regex>
 <thumbnail>http://s17.postimg.org/w75u3yg1n/globo2.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Globo-HD.png</fanart>
+http://logosc.ucoz.com/Globo-HD.png
 </item>
 
 
@@ -555,29 +502,29 @@
 
 
 <item>
-<title>[COLOR blue][B] LIVRE TV [/B][/COLOR]</title>
+<title>[COLOR white][B] LIVRE TV [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://172.93.110.130:1935/livretv/_definst_ playpath=mp4:livretv_720p swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.livretv.com?MWINFO</link>
 <thumbnail>http://s20.postimg.org/6rluuxp09/livre_tv.png</thumbnail>
-<fanart>http://s20.postimg.org/6rluuxp09/livre_tv.png</fanart>
+http://s20.postimg.org/6rluuxp09/livre_tv.png
 </item>
 
 
 <item>
-<title>[COLOR blue][B] LIVRE TV [/B][/COLOR]</title>
+<title>[COLOR white][B] LIVRE TV [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://172.93.110.130:1935/livretv/livretv/playlist.m3u8?MWINFO</link>
 <thumbnail>http://s20.postimg.org/6rluuxp09/livre_tv.png</thumbnail>
-<fanart>http://s20.postimg.org/6rluuxp09/livre_tv.png</fanart>
+http://s20.postimg.org/6rluuxp09/livre_tv.png
 </item>
 
 <item>
-<title>[COLOR green][B] NOVO CANAL [/B][/COLOR]</title>
+<title>[COLOR white][B] NOVO CANAL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://189.86.89.116:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8</link>
-<fanart>http://i.imgur.com/R73aMDP.png</fanart>
+http://i.imgur.com/R73aMDP.png
 <thumbnail>http://i.imgur.com/R73aMDP.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR yellow][B] RECORD SP [/B][/COLOR]</title>
+<title>[COLOR white][B] RECORD SP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[Igor_Rangel_ip]:8088/live/$doregex[Igor_Rangel_ch]/playlist.m3u8?$doregex[Igor_Rangel_AuthSign]</link>
 <regex>
 <name>Igor_Rangel_ch</name>
@@ -597,13 +544,13 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://listaiptvbrasil.com/logos/recordtv.png</thumbnail>
-<fanart>http://aovivonatv.com/fotos/a0bdc977f78f2c38f714d129e2b5b6a8.jpg</fanart>
+http://aovivonatv.com/fotos/a0bdc977f78f2c38f714d129e2b5b6a8.jpg
 </item>
 
 
 
 <item>
-<title>[COLOR yellow][B] RECORD SP [/B][/COLOR]</title>
+<title>[COLOR white][B] RECORD SP [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://$doregex[MisterWil_IP]/loadbalance/record2278/playlist.m3u8?$doregex[MisterWil_AuthSign]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>MisterWil_IP</name>
@@ -620,182 +567,182 @@
 <agent>Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36</agent>
 </regex>
 <thumbnail>http://listaiptvbrasil.com/logos/recordtv.png</thumbnail>
-<fanart>http://aovivonatv.com/fotos/a0bdc977f78f2c38f714d129e2b5b6a8.jpg</fanart>
+http://aovivonatv.com/fotos/a0bdc977f78f2c38f714d129e2b5b6a8.jpg
 </item>
 
 
 <item>
-<title>[COLOR yellow][B] RECORD ANGOLA [/B][/COLOR]</title>
+<title>[COLOR white][B] RECORD ANGOLA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8</link>
 <thumbnail>http://listaiptvbrasil.com/logos/recordtv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Record-SP.png</fanart>
+http://logosc.ucoz.com/Record-SP.png
 </item>
 
 <item>
-<title>[COLOR white][B] REDE BRASIL [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE BRASIL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://rbc.directradios.com:1935/rbc/smil:rbc.smil/chunklist_w2020266859_b1200000.m3u8?MWINFO</link>
 <thumbnail>http://logosc.ucoz.com/Rede_Brasil.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede_Brasil.png</fanart>
+http://logosc.ucoz.com/Rede_Brasil.png
 </item>
 
 <item>
-<title>[COLOR blue][B] REDE FAMÍLIA [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE FAMÍLIA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://srv9.zoeweb.tv:1935/zw901/zw901/playlist.m3u8?MWINFO</link>
 <thumbnail>http://i.imgur.com/RJctW3G.png</thumbnail>
-<fanart>http://i.imgur.com/RJctW3G.png</fanart>
+http://i.imgur.com/RJctW3G.png
 </item>
 
 <item>
-<title>[COLOR green][B] REDE TV [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 
 <item>
-<title>[COLOR green][B] REDE TV RONDÔNIA [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV RONDÔNIA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 <item>
-<title>[COLOR green][B] REDE TV SÃO PAULO [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV SÃO PAULO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/ExabyteTV.m3u8?MWINFO</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 
 <item>
-<title>[COLOR green][B] REDE TV SÃO PAULO [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV SÃO PAULO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/chunklist.m3u8?wowzasessionid?MWINFO</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 <item>
-<title>[COLOR green][B] REDE TV SÃO PAULO [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV SÃO PAULO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 <item>
-<title>[COLOR green][B] REDE TV [/B][/COLOR]</title>
+<title>[COLOR white][B] REDE TV [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?MWINFO</link>
 <thumbnail>http://s7.postimg.org/kvusg9d9z/redetv.png</thumbnail>
-<fanart>http://logosc.ucoz.com/Rede-TV-HD.png</fanart>
+http://logosc.ucoz.com/Rede-TV-HD.png
 </item>
 
 
 <item>
-<title>[COLOR yellow][B] SBT (RECIFE) [/B][/COLOR]</title>
+<title>[COLOR white][B] SBT (RECIFE) [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/chunklist.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 
 <item>
-<title>[COLOR yellow][B] SBT (CARUARÚ) [/B][/COLOR]</title>
+<title>[COLOR white][B] SBT (CARUARÚ) [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 
 <item>
-<title>[COLOR yellow][B]SBT (PI) [/B][/COLOR]</title>
+<title>[COLOR white][B]SBT (PI) [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1129490283.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 <item>
-<title>[COLOR yellow][B] SBT (SP)  [/B][/COLOR]</title>
+<title>[COLOR white][B] SBT (SP)  [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 <item>
-<title>[COLOR yellow][B] SBT (SP)  [/B][/COLOR]</title>
+<title>[COLOR white][B] SBT (SP)  [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://slrp.sambavideos.sambatech.com/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 <item>
-<title>[COLOR yellow][B] SBT (SP) [/B][/COLOR]</title>
+<title>[COLOR white][B] SBT (SP) [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8?MWINFO</link>
 <thumbnail>http://logosc.ucoz.com/SBT-HD.png</thumbnail>
-<fanart>http://logosc.ucoz.com/SBT-HD.png</fanart>
+http://logosc.ucoz.com/SBT-HD.png
 </item>
 
 <item>
-<title>[COLOR white][B] TV ASSEMBLÉIA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV ASSEMBLÉIA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://streaming.almg.gov.br/live/tvalmg2.m3u8?MWINFO</link>
 <thumbnail>https://s26.postimg.org/oiz83olh5/ass.png</thumbnail>
-<fanart>http://www.lavras24horas.com.br/portal/wp-content/uploads/2015/06/73.jpg</fanart>
+http://www.lavras24horas.com.br/portal/wp-content/uploads/2015/06/73.jpg
 </item>
 
 
 
 <item>
-<title>[COLOR blue][B] TV CÂMARA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CÂMARA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://www.tvmpf.mpf.mp.br:1935/event423/event423.stream_720p/live.m3u8?MWINFO</link>
 <thumbnail>https://s32.postimg.io/4ckx3eeht/TV_C_mara.png</thumbnail>
-<fanart>https://s32.postimg.io/4ckx3eeht/TV_C_mara.png</fanart>
+https://s32.postimg.io/4ckx3eeht/TV_C_mara.png
 </item>
 
 <item>
-<title>[COLOR blue][B] TV CÂMARA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CÂMARA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://tvmpf.mpf.mp.br:1935/event423/event423.stream_480p/playlist.m3u8</link>
 <thumbnail>https://s32.postimg.io/4ckx3eeht/TV_C_mara.png</thumbnail>
-<fanart>https://s32.postimg.io/4ckx3eeht/TV_C_mara.png</fanart>
+https://s32.postimg.io/4ckx3eeht/TV_C_mara.png
 </item>
 
 
 <item>
-<title>[COLOR green][B] TV CULTURA HD  [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CULTURA HD  [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://5.79.68.138:8081/look/tvcultura/playlist.m3u8</link>
 <thumbnail>http://s27.postimg.org/sp9bp8kfz/cultura3.png</thumbnail>
-<fanart>http://s20.postimg.org/b9etxac21/Cultura.png</fanart>
+http://s20.postimg.org/b9etxac21/Cultura.png
 </item>
 
 <item>
-<title>[COLOR green][B] TV CULTURA RS [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CULTURA RS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8</link>
 <thumbnail>http://s27.postimg.org/sp9bp8kfz/cultura3.png</thumbnail>
-<fanart>http://s20.postimg.org/b9etxac21/Cultura.png</fanart>
+http://s20.postimg.org/b9etxac21/Cultura.png
 </item>
 
 
 
 <item>
-<title>[COLOR green][B] TV CULTURA/CATIVE [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CULTURA/CATIVE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://wowza.catve.com.br:1935/live/livestream/playlist.m3u8</link>
 <thumbnail>http://s27.postimg.org/sp9bp8kfz/cultura3.png</thumbnail>
-<fanart>http://s20.postimg.org/b9etxac21/Cultura.png</fanart>
+http://s20.postimg.org/b9etxac21/Cultura.png
 </item>
 
 
 <item>
-<title>[COLOR green][B] TV CULTURA/ITARARÉ PB [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CULTURA/ITARARÉ PB [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8</link>
 <thumbnail>http://s27.postimg.org/sp9bp8kfz/cultura3.png</thumbnail>
-<fanart>http://s27.postimg.org/sp9bp8kfz/cultura3.png</fanart>
+http://s27.postimg.org/sp9bp8kfz/cultura3.png
 </item>
 
 
 
 <item>
-<title>[COLOR green][B] TV CULTURA/BAHIA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV CULTURA/BAHIA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8</link>
 <thumbnail>http://s27.postimg.org/sp9bp8kfz/cultura3.png</thumbnail>
-<fanart>http://s20.postimg.org/b9etxac21/Cultura.png</fanart>
+http://s20.postimg.org/b9etxac21/Cultura.png
 </item>
 
 
@@ -803,43 +750,43 @@
 
 
 <item>
-<title>[COLOR yellow][B] TV BRASIL [/B][/COLOR]</title>
+<title>[COLOR white][B] TV BRASIL [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8</link>
 <thumbnail>http://s17.postimg.org/wirvuglvf/tvbrasil4.png</thumbnail>
-<fanart>http://s17.postimg.org/wirvuglvf/tvbrasil4.png</fanart>
+http://s17.postimg.org/wirvuglvf/tvbrasil4.png
 </item>
 
 <item>
-<title>[COLOR yellow][B] TV BRASIL[/B][/COLOR]</title>
+<title>[COLOR white][B] TV BRASIL[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8</link>
 <thumbnail>http://s17.postimg.org/wirvuglvf/tvbrasil4.png</thumbnail>
-<fanart>http://s17.postimg.org/wirvuglvf/tvbrasil4.png</fanart>
+http://s17.postimg.org/wirvuglvf/tvbrasil4.png
 </item>
 
 
 <item>
-<title>[COLOR white][B] TV ESCOLA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV ESCOLA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?MWINFO</link>
 <thumbnail>https://s15.postimg.io/ri5kwmjvr/tvescola2.png</thumbnail>
-<fanart>https://s15.postimg.io/ri5kwmjvr/tvescola2.png</fanart>
+https://s15.postimg.io/ri5kwmjvr/tvescola2.png
 </item>
 
 <item>
-<title>[COLOR white][B] TV ESCOLA [/B][/COLOR]</title>
+<title>[COLOR white][B] TV ESCOLA [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?MWINFO</link>
 <thumbnail>https://s15.postimg.io/ri5kwmjvr/tvescola2.png</thumbnail>
-<fanart>https://s15.postimg.io/ri5kwmjvr/tvescola2.png</fanart>
+https://s15.postimg.io/ri5kwmjvr/tvescola2.png
 </item>
 
 <item>
-<title>[COLOR blue][B] TV INÊS [/B][/COLOR]</title>
+<title>[COLOR white][B] TV INÊS [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://liveabr.sambatech.com.br:80/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8?MWINFO</link>
 <thumbnail>http://s20.postimg.org/wxxd9h789/tv_ines.png</thumbnail>
-<fanart>http://s20.postimg.org/wxxd9h789/tv_ines.png</fanart>
+http://s20.postimg.org/wxxd9h789/tv_ines.png
 </item>
 
 <item>
-<title>[COLOR yellow][B] TV MEIO NORTE [/B][/COLOR]</title>
+<title>[COLOR white][B] TV MEIO NORTE [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
     <link>http://livestream-f.akamaihd.net$doregex[getPATH]master.m3u8?$doregex[getMAC]</link>
     <regex>
     <name>getPATH</name>
@@ -858,23 +805,23 @@
     <referer>http://livestream.com</referer>
     </regex>
     <thumbnail>http://s21.postimg.org/4ci9ksbib/meionorte.png</thumbnail>
-	<fanart>https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_TV_Meio_Norte_Maranh%C3%A3o.png</fanart>
+	https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_TV_Meio_Norte_Maranh%C3%A3o.png
     </item>
 	
 
 <item>
-<title>[COLOR yellow][B] TV MEIO NORTE RO [/B][/COLOR]</title>
+<title>[COLOR white][B] TV MEIO NORTE RO [/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8</link>
 <thumbnail>http://s21.postimg.org/4ci9ksbib/meionorte.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_TV_Meio_Norte_Maranh%C3%A3o.png</fanart>
+https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_TV_Meio_Norte_Maranh%C3%A3o.png
 </item>
 
 
 <item>
-<title>[COLOR blue][B] VIA MORENA[/B][/COLOR]</title>
+<title>[COLOR white][B] VIA MORENA[/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://wowza2.netpoint.com.br/viamorena/live</link>
 <thumbnail>http://i.imgur.com/vgORZRb.png</thumbnail>
-<fanart>http://i.imgur.com/vgORZRb.png</fanart>
+http://i.imgur.com/vgORZRb.png
 </item>
 
 
