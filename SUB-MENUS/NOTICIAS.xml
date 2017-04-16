@@ -33,17 +33,49 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-<sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
-<sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
-<sportsdevil>http://www.meocanaltv.com/canais.php?stream=TVI24</sportsdevil>
-<sportsdevil>http://firstrowne.eu/watch/423640/1/watch-sl-benfica-vs-basquete-de-barcelos.html</sportsdevil>
+
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+
+<sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+
+<sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+
+<sportsdevil>http://www.meocanaltv.com/canais.php?stream=TVI24</sportsdevil>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] TVI 24 HD [/I][/B][/COLOR]        [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+
+<sportsdevil>http://firstrowne.eu/watch/423640/1/watch-sl-benfica-vs-basquete-de-barcelos.html</sportsdevil>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+</item>
 
 
 
