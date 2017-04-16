@@ -32,46 +32,12 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
-
 
 
 <item>
-<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<title>[COLOR cyan][B][I]  TVI 24  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 
 <sportsdevil>http://tviplayer.iol.pt/direto/TVI24</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil>http://www.tvtuga.com/tvi-24/</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil>http://www.meocanaltv.com/canais.php?stream=TVI24</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil>http://firstrowne.eu/watch/423640/1/watch-sl-benfica-vs-basquete-de-barcelos.html</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
 </item>
@@ -81,7 +47,15 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 
 <item>
 <title>[COLOR=cyan][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=portocanalxx?id=83399&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</link>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link>
+</item>
+
+
+<item>
+<title>[COLOR=cyan][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10</link>
 </link>
 <regex>
 <name>get-ip</name>
@@ -97,14 +71,15 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 </regex>
 </item>
 
+
 <item>
 <title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/portocanal</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=portocanal</sportsdevil>
+<sportsdevil>http://www.sporttvonlinehd.net/index.php?canal=portocanal</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
+<fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
+
 
 
 <item>
