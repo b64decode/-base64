@@ -1,35 +1,39 @@
 
-
-
-
-
-
 <item>
 <title>[COLOR=orange][B][I] DISCOVERY [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=discoveryx?id=84775&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</link>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discoveryx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
 </regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/Discovery-Channel-PT-UK-43-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.tvgente.us/e/watch/Discovery-Channel-PT-UK-43-1</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 </item>
-
 
 
 <item>
 <title>[COLOR orange][B][I]  DISCOVERY [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
-<sportsdevil>http://www.estadiofutebol.com/gratis/discovery</sportsdevil>
-<sportsdevil>http://www.desportonline.net/index.php?canal=discovery</sportsdevil>
 <referer>http://ucaster.eu/</referer>
+<fanart></fanart>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/discoverychannel.png</thumbnail>
-</regex>
 </item>
+
 
 
 
