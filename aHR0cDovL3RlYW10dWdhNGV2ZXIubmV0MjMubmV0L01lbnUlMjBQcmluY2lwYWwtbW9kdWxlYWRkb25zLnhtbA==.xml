@@ -9,26 +9,26 @@
 
 
 <item>
-<title>                                   [COLOR lime][B]UPDATE 28-02-2017[/COLOR][/B] </title>
+<title>                                   [COLOR lime][B]UPDATE 19-04-2017[/COLOR][/B] </title>
 <link>http://Movies.me</link>
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
-<thumbnail>https://lh4.ggpht.com/Ssuv0CPnQkYAx1RjrYwX1BiK6t44_6kIddRWIKqzRqkb26sGrIgUzr1VOHqxpsoD4g=w300</thumbnail>
-<fanart>https://lh4.googleusercontent.com/tG55nOBqJcnOrL_m1Elza4s1hoegF-CVusAFgRKVL-za4vSqpnzLK_rUOQQfZwoEujoC7BUODQ=s640-h400-e365</fanart>
+<thumbnail>http://www.pngmart.com/files/3/Update-Button-PNG-File.png</thumbnail>
+
 </item>
 
 <item>
 <title>  </title>
 <link>http://MENU0.me</link>
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/7j1aw610.png</thumbnail>
 </item>
 
 <item>
-<title>                                        [COLOR white][B]PROCURAR[/COLOR][/B]</title
+<title>                                          [COLOR white][B]PROCURAR[/COLOR][/B]</title
 <link>http://Movies.me</link>
 <jsonrpc>plugin://plugin.video.TVsupertuga/?action=addSearch</jsonrpc>
-<thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2f/Windows_Live_Search_logo.png</thumbnail>
 <fanart></fanart>
 </item>
 
@@ -38,8 +38,8 @@
 <title>  </title>
 <link>http://MENU0.me</link>
 <externallink>https://raw.githubusercontent.com/PROCURAR.xml</externallink>
-<fanart>http://i86.servimg.com/u/f86/19/44/91/43/black-10.jpg</fanart>
-<thumbnail>http://www.esar.edu.pt/portal/images/outros/icon.jpg</thumbnail>
+
+<thumbnail>https://i37.servimg.com/u/f37/19/44/91/43/7j1aw610.png</thumbnail>
 </item>
 
 
