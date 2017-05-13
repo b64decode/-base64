@@ -92,6 +92,63 @@
 </item>
 
 
+<item> 
+<title>[COLOR white][B][I] E ENTERTAINMENT [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA2&amp;mode=11&amp;name=E+entertainment</jsonrpc>
+<thumbnail>https://media.glassdoor.com/sqll/16794/e-entertainment-television-squarelogo.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item> 
+<title>[COLOR white][B][I] CACAVISION [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA5&amp;mode=11</jsonrpc>
+<thumbnail>https://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,37 +161,13 @@
 
 
 
+
+
 <item>
 <title>[COLOR=white][B][I] BAND BR [/I][/B][/COLOR]     [COLOR yellow][B] BR [/B][/COLOR]</title>
 <link>rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=?ChannelsON</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQx04HOK5g_69wyNu1DIVMaInEcrRnS9CSQHSL_l2iKeL44JHOfw</thumbnail>
 </item> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
