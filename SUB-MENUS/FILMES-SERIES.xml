@@ -108,6 +108,16 @@
 </item>
 
 
+<item> 
+<title>[COLOR magenta][B][I] FOX HD [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAw&amp;mode=11&amp;name=Fox+hd</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</item>
+
+
+
+
 <item>
 <title>[COLOR=magenta][B][I] FOX [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=foxcrl?id=24274$doregex[pk] conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10</link>
@@ -132,6 +142,16 @@
 <referer>http://escast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </item>
+
+
+
+<item> 
+<title>[COLOR magenta][B][I] FOX MOVIES [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAx&amp;mode=11&amp;name=Fox+movies</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -160,6 +180,15 @@
 </item>
 
 
+<item> 
+<title>[COLOR magenta][B][I] FOX CRIME [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAz&amp;mode=11&amp;name=Fox+crime</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</item>
+
+
+
 
 <item>
 <title>[COLOR=magenta][B][I] FOX CRIME [/I][/B][/COLOR]</title>
@@ -184,6 +213,15 @@
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
 </item>
+
+<item> 
+<title>[COLOR magenta][B][I] FOX LIFE [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAy&amp;mode=11&amp;name=Fox+life</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
+</item>
+
+
 
 
 <item>
@@ -218,6 +256,14 @@
 <thumbnail>https://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy.jpg</thumbnail>
 </item>
 
+
+
+<item> 
+<title>[COLOR magenta][B][I] HOLLYWOOD [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA1&amp;mode=11&amp;name=Hwd+hollywood</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
+</item>
 
 
 
