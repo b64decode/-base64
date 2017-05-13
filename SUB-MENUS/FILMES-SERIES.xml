@@ -59,6 +59,29 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnmagentahd.png</thumbnail>
 </item>
 
+
+
+
+
+<item> 
+<title>[COLOR magenta][B][I] AXN WHITE [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDEx&amp;mode=11&amp;name=Axn+white</jsonrpc>
+<thumbnail>http://infocul.pt/wp-content/uploads/2016/02/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR magenta][B][I]  AMC [/I][/B][/COLOR] </title>
 <link>$doregex[select_Url]</link>
@@ -83,15 +106,6 @@
 </regex>
 <thumbnail>https://s20.postimg.org/kix47j1dp/AMC_2013.png</thumbnail>
 </item>
-
-<item> 
-<title>[COLOR lime][B][I] AXN WHITE [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDEx&amp;mode=11&amp;name=Axn+white</jsonrpc>
-<thumbnail>http://infocul.pt/wp-content/uploads/2016/02/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg</thumbnail>
-</item>
-
-
 
 
 <item>
@@ -198,7 +212,7 @@
 </item>
 
 <item> 
-<title>[COLOR white][B][I] FOX COMEDY [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<title>[COLOR magenta][B][I] FOX COMEDY [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA0&amp;mode=11&amp;name=Fox+comedy</jsonrpc>
 <thumbnail>https://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy.jpg</thumbnail>

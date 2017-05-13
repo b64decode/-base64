@@ -4,7 +4,7 @@
 
 
 <item> 
-<title>[COLOR lime][B][I] BABY TV [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<title>[COLOR yellow][B][I] BABY TV [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT03OTk4&amp;mode=11&amp;name=Baby+tv</jsonrpc>
 <thumbnail>http://china-screen-news.com/wp-content/uploads/2012/09/BabyTV-logo-2.jpg</thumbnail>
@@ -14,12 +14,18 @@
 
 
 <item> 
-<title>[COLOR lime][B][I] BIGGS [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<title>[COLOR yellow][B][I] BIGGS [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT03OTk3&amp;mode=11&amp;name=Biggs&</jsonrpc>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png</thumbnail>
 </item>
 
+<item> 
+<title>[COLOR yellow][B][I] DISNEY JUNIOR [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT03OTk2&amp;mode=11&amp;name=Disney+jr</jsonrpc>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qrqxyp1433430351.png</thumbnail>
+</item>
 
 
 
@@ -40,7 +46,7 @@
 
 
 <item> 
-<title>[COLOR lime][B][I] DISNEY CHANNEL [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
+<title>[COLOR yellow][B][I] DISNEY CHANNEL [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT03OTk1&amp;mode=11&amp;name=Disney+channel</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ruywvx1435106173.png</thumbnail>
