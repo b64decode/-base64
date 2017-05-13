@@ -128,6 +128,23 @@ orange
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
   
+  
+  
+ <item> 
+<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR salmon](ZemTV)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDozNj03Njg5&amp;mode=11&amp;name=Sports+tv+2</jsonrpc>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[m3u8]</link>
