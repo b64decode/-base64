@@ -29,7 +29,11 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
+<link>http://188.250.214.28:8889/play/a05j/index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+</item>
 
 
 <item>
@@ -55,7 +59,11 @@
 </item>
 
 
-
+<item>
+<title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
+<link>http://188.250.214.28:8889/play/a02p/index.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+</item>
 
 
 <item> 
@@ -204,7 +212,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <link>
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8#
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://theiptv.ddns.net:25461/live/hosni/hosni/1162.ts&amp;name=TVsupertuga#
+sublink:http://188.250.214.28:8889/play/a029/index.m3u8#
 </link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
