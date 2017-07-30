@@ -2,7 +2,7 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/RTP3-83-2</sportsdevil>
 <referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
@@ -12,12 +12,18 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
-<sportsdevil>http://tvgente.in/watch/RTP1-81-3</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/RTP3-83-1</sportsdevil>
 <referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
+<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp</sportsdevil>
+<referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+</item>
 
 
 
@@ -61,7 +67,7 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 2 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://188.250.214.28:8889/play/a02p/index.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
 </item>
 
@@ -80,22 +86,6 @@
 
 
 
-<item>
-<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/SIC-28-2</sportsdevil>
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/SIC-28-3</sportsdevil>
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -108,16 +98,8 @@
 
 
 <item>
-<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://sic.sapo.pt/direto</sportsdevil>
-
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]    [COLOR=orange](WebTV)[/COLOR]</title>
-<link>http://live.impresa.pt/live/sic/sic540p.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8</link>
 
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 
