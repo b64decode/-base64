@@ -2,20 +2,11 @@
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
-<sportsdevil>http://tvgente.in/watch/RTP3-83-2</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/RTP1-81-2</sportsdevil>
 <referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
 
-
-
-<item>
-<title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil>http://tvgente.in/watch/RTP3-83-1</sportsdevil>
-<referer>http://www.rtp.pt/</referer>file:///C:/Users/ANTONI~1/AppData/Local/Temp/TV-TUGA-LISTA-PREMIUM.M3U
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
@@ -194,7 +185,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <link>
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8#
 sublink:http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8#
-sublink:http://188.250.214.28:8889/play/a029/index.m3u8#
+sublink:http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8#
 </link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 </item>
