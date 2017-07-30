@@ -63,30 +63,6 @@
 <link>http://4.31.30.145:9040$$lsname=TVI REALITY</link>
 </item>
 
-<item>
-<title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR]  [COLOR=lime](WebTV)[/COLOR]</title>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/2/24/TVI_Reality.png/revision/latest?cb=20151102010608</thumbnail>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.tvgente.us/e/watch/TVI-Reallity-120-4</page>
-<referer>http://www.tvgente.in/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.tvgente.us/e/watch/TVI-Reallity-120-4</page>
-<referer>http://www.tvgente.in/</referer>
-<agent></agent>
-</regex>
-</item>
 
 <item>
 <title>[COLOR=white][B][I] TVI REALITY [/I][/B][/COLOR] [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
