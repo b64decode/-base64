@@ -154,6 +154,24 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 </item>
 
 
+<item>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/Porto-Canal-30-2</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR cyan][B][I] PORTO CANAL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/Porto-Canal-30-3</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</item>
+
+
 
 
 <item>
