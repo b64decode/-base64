@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
@@ -922,3 +923,929 @@
 
 
 
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+ 
+<item>
+<title>[COLOR cyan] SERIES PT [/COLOR]</title>
+<thumbnail>https://www.gl-assessment.co.uk/media/1299/pt_series-logo.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-lmk22huxzP0/V9FU7r_I2YI/AAAAAAAAG4o/8kyPs8Hcs-QZ4_UUTioM0w2DV4MfLOcYwCLcB/s640/Tuga%2BStreams%2Blive%2Btv%2Baddon.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/MAIS%20IPTV/SERIES%20PT.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BRAZIL TV [/COLOR]  [/COLOR]</title>
+<thumbnail>https://lh3.googleusercontent.com/EQLp_ZRRv6McJNZbqjvk-jifPFARqu5dPd7DYNSC5r9lPuuYSi5fASkZSYg-y3fvE8Q=w300</thumbnail>
+<fanart>https://www.rapidtvnews.com/images/pantalla-tv.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/MAIS%20IPTV/BRAZIL.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ESPANHA TV [/COLOR]</title>
+<thumbnail>http://opendatabarometer.org/data-explorer/img/flags/es.svg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/MAIS%20IPTV/ESPANHA.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ITALIE TV [/COLOR]</title>
+<thumbnail>https://image.spreadshirtmedia.net/image-server/v1/compositions/22118785/views/1,width=300,height=300,version=1478003241/flag-italia-dd-t-shirts-mannen-t-shirt.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/6e/e5/be/6ee5becb7d126aead06739bf7c91e45b.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/b64decode/-base64/master/SUB-MENUS/MAIS%20IPTV/ITALIE.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] UKRAINIAN TV [/COLOR]</title>
+<thumbnail>http://en.radon.org.ua/files/stories2016/ua-tv.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2000px-Flag_of_Ukraine.svg.png</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.iptvsaga.com/links/86-ukrainian-iptv-channels-hd-sd-08-11.m3u</externallink>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR cyan] AFGHANISTAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/afghanistan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/afghanistan.png</thumbnail>
+<date>11/12/16</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ALBANIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/albania.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/albania.png</thumbnail>
+<date>3/5/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ALGERIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/algeria.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/algeria.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ARGENTINA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/argentina.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/argentina.png</thumbnail>
+<date>10/5/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ARMENIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/armenia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/armenian_flag.png</thumbnail>
+<date>3/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] AZERBAIJAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/azerbaijan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/azerbaijan.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BAHAMAS [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/bahamas.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/bahamas.png</thumbnail>
+<date>12/3/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BANGLADESH [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/bangladesh.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/bangladesh.png</thumbnail>
+<date>12/31/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BARBADOS [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/barbados.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/barbados-y.png</thumbnail>
+<date>1/24/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BELIZE [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/belize.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/bz.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BENIN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/benin.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Benin.png</thumbnail>
+<date>1/14/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BOSNIA-HERZ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/bosnia-herz.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/bosni-herz.png</thumbnail>
+<date>4/23/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BRAZIL [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/brazil.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/brasil.png</thumbnail>
+<date>3/30/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BULGARIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/bulgaria.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Bulgaria.png</thumbnail>
+<date>4/8/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] BURKINA FASO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/burkina%20faso.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Burkina Faso.png</thumbnail>
+<date>12/27/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CAMEROON [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/cameroon.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Cameroon.png</thumbnail>
+<date>5/3/2017</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] CAMBODIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/cambodia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/cambodia.png</thumbnail>
+<date>12/27/2015</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] CANADA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/canada.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Canada-Hymnes-nationaux-2562233066.jpg</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CHAD [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/chad.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Chad.png</thumbnail>
+<date>6/14/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CHILE [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/chile.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/chile.png</thumbnail>
+<date>8/21/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] COLOMBIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/colombia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/colombia.png</thumbnail>
+<date>10/1/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] COSTA RICO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/costa%20rico.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/costa_rica.jpg</thumbnail>
+<date>2/18/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CROATIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/croatia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Croatia.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CUBA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/cuba.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/cuba_flag_1440x900.png</thumbnail>
+<date>12/27/2015</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] CURACAO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/curacao.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/3e43c1e15ad80bc8cdc60fb990e41f2a.jpg</thumbnail>
+<date>1/18/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] CZECH REPUBLIC [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/czechoslovakia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Czech-Republic-Flag.PNG</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] DANISH [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/danish.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Denmark.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] DOMINICAN REPUBLIC [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/dominican%20republic.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/dominican-republic-hi.png</thumbnail>
+<date>11/27/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ECUADOR [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ecuador.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/ecuador.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ETHIOPIAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ethiopian.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Ethiopia.png</thumbnail>
+<date>4/16/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] FRANCE [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/france.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/france.png</thumbnail>
+<date>8/28/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] GABON [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/gabon.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Gabon.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] GERMANY [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/german.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Germany.png</thumbnail>
+<date>12/16/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] GHANA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ghana.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Ghana.png</thumbnail>
+<date>9/24/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] GREECE [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/greek.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Greece.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] GRENADA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/grenada.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/grenada-hi.jpg</thumbnail>
+<date>5/12/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] HAITI [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/haiti.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Haiti Flag.jpg</thumbnail>
+<date>10/5/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] HONDURAS [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/honduras.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/honduras-flag-wallpapers_32963_1920x1200.png</thumbnail>
+<date>11/12/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] HUNGARY [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/hungary.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Hungary.png</thumbnail>
+<date>10/1/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] INDIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/india.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/india.png</thumbnail>
+<date>1/30/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] INDONESIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/indonesia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/indonesia.png</thumbnail>
+<date>4/16/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] IRAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/iran.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/iran.png</thumbnail>
+<date>4/23/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] IRELAND [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ireland.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Ireland.png</thumbnail>
+<date>10/2/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] IVORY COAST [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ivory%20coast.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Cote Divoire.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] JAMAICA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/jamaica.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/jamaicaflagimage1.jpg</thumbnail>
+<date>3/20/2015</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] JAPAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/japan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/japan.png</thumbnail>
+<date>11/24/2015</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] KAZAKHSTAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/kazakhstan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/kazakhstan.png</thumbnail>
+<date>11/27/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] KENYA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/kenya.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/kenya.png</thumbnail>
+<date>12/31/2016</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] KURD [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/kurd.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/kurdistan_flag_by_rabar11-d4fl7he.png</thumbnail>
+<date>2/13/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MACEDONIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/mace.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Macedonia.png</thumbnail>
+<date>10/14/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MALAYSIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/malaysian.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/malaysia.png</thumbnail>
+<date>4/25/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MALI [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/mali.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Mali.png</thumbnail>
+<date>10/11/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MALTA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/malta.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Malta.png</thumbnail>
+<date>5/1/2017</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MEXICO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/mexico.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/mexico.png</thumbnail>
+<date>1/26/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] MOROCCO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/morocco.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Morocco.png</thumbnail>
+<date>2/26/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] NEPAL [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/nepal.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/nepal.png</thumbnail>
+<date>9/24/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] NETHERLAND [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/netherland.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Nederland.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] NIGERIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/nigeria.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Nigeria.png</thumbnail>
+<date>8/16/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] NORWAY [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/norway.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Norway.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] PAKISTAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/pakistan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/pakistan.png</thumbnail>
+<date>12/10/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] PERU [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/peru.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/peru.png</thumbnail>
+<date>12/26/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] PHILIPPINES [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/philippines.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/philippines.png</thumbnail>
+<date>10/9/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] POLAND [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/poland.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Poland.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] PORTUGAL [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/portugal.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Portugal.png</thumbnail>
+<date>12/7/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] PUERTO RICO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/puerto%20rico.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/PuertoRicoFlag.png</thumbnail>
+<date>1/17/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ROMANIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/romania.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Romania.png</thumbnail>
+<date>7/29/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] RUSSIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/russia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Russia.png</thumbnail>
+<date>5/25/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SENEGAL [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/senegal.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Senegal.png</thumbnail>
+<date>7/12/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SERBIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/serbia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Serbia.png</thumbnail>
+<date>4/22/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SOMALIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/somalia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Somalia.png</thumbnail>
+<date>4/19/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SOUTH KOREA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/south%20korea.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/south_korea.png</thumbnail>
+<date>12/19/2014</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SPAIN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/spain.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/spain.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SRI LANKA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/sri%20lanka.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/sri_lanka.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] ST LUCIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/stlucia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/stlucia.png</thumbnail>
+<date>11/27/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SUDAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/sudan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Sudan.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] SWEDEN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/swedish.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Sweden.png</thumbnail>
+<date>7/28/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] TAMIL [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/tamil.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/india.png</thumbnail>
+<date>1/16/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] THAILAND [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/thailand.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/thailand.png</thumbnail>
+<date>10/9/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] TRINIDAD AND TOBAGO [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/trinidad%20and%20tobago.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/339673-Berserker.jpg</thumbnail>
+<date>9/24/2016</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] TUNISIA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/tunisia.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Tunisia.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] TURKEY [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/turkish.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Turkey.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] UGANDA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/uganda.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Uganda.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] UKRAINE [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/ukraine.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/Ukraine.png</thumbnail>
+<date>12/25/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] URUGUAY [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/urugray.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/uruguay.png</thumbnail>
+<date>4/18/2015</date>
+</item>
+
+
+<item>
+<title>[COLOR cyan] UZBEKISTAN [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/uzbekistan.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/uruguay.png</thumbnail>
+<date>11/27/2016</date>
+</item>
+
+
+
+
+<item>
+<title>[COLOR cyan] VENEZUELA [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/venezuela.xml</externallink>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/venezuela.png</thumbnail>
+<date>12/22/2015</date>
+</item>
+
+
+
+<item>
+<title>[COLOR cyan] VIETNAM [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/vietnam.xml</link>
+<thumbnail>http://crusader88.offshorepastebin.com/CrusaderStreams/Countries/flags/vietnam.png</thumbnail>
+<date>6/11/2016</date>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
