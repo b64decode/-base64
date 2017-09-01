@@ -2,8 +2,6 @@
 <item>
 <title>[COLOR blue] [I]SPORT TV + HD[/I] [/COLOR] [COLOR orange]     [/COLOR]</title>
 
-<link>rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD</link>
-<link>rtmp://euro.mysoltv.com:1935/live/RTP1_HDMI</link>
 <thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
 </item>
@@ -21,7 +19,7 @@
 <title>[COLOR=blue][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=orange](HD)[/COLOR]</title>
 <link>
 sublink:rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD
-sublink:rtmp://euro.mysoltv.com:1935/live/RTP1_HDMI
+
 
 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
