@@ -69,6 +69,7 @@
 
 <item> 
 <title>[COLOR=orange][B][I] NATIONAL GEOGRAPHIC [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>
+<link>rtmp://euro.mysoltv.com:1935/live/NAT_GEO_HDMI</link>
 <link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
 <name>get-ip</name>
 <expres>redirect=(.*)</expres>

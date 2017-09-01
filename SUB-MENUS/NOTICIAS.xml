@@ -279,6 +279,13 @@ sublink:http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 <link>http://163.172.60.49/loadbalance/72772254352793986215/chunks.m3u8</link>
 </item>
 
+
+<item>
+<title>[COLOR cyan][B][I]  CM TV HD [/I][/B][/COLOR]</title>
+<thumbnail>http://s20.postimg.org/u3s3bcbb1/a_bola_tv.jpg</thumbnail>
+<link>rtmp://euro.mysoltv.com:1935/live/CMTV_HDMI</link>
+</item>
+
 <item>
 <title>[COLOR cyan][B][I]  CM TV [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://tvgente.in/watch/CMTV-29-4</sportsdevil>

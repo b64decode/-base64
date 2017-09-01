@@ -7,9 +7,8 @@
 </item>
 
 <item> 
-<title>[COLOR magenta][B][I] AXN HD [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDEw&amp;mode=11&amp;name=Axn+hd</jsonrpc>
+<title>[COLOR magenta][B][I] AXN HD [/I][/B][/COLOR]</title>
+<link>rtmp://euro.mysoltv.com:1935/live/AXN_HDMI</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
 </item>
 
@@ -109,9 +108,8 @@
 
 
 <item> 
-<title>[COLOR magenta][B][I] FOX HD [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAw&amp;mode=11&amp;name=Fox+hd</jsonrpc>
+<title>[COLOR magenta][B][I] FOX HD [/I][/B][/COLOR] </title>
+<link>rtmp://euro.mysoltv.com:1935/live/FOX_PORTUGAL</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
 </item>
 
@@ -259,9 +257,8 @@
 
 
 <item> 
-<title>[COLOR magenta][B][I] HOLLYWOOD [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA1&amp;mode=11&amp;name=Hwd+hollywood</jsonrpc>
+<title>[COLOR magenta][B][I] HOLLYWOOD HD [/I][/B][/COLOR]</title>
+<link>rtmp://euro.mysoltv.com:1935/live/HOLLYWOOD_HDMI</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </item>
 
