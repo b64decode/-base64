@@ -20,8 +20,8 @@
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 HD [/I][/B][/COLOR]  [COLOR=orange](HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/666.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/666.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD
+sublink:rtmp://euro.mysoltv.com:1935/live/RTP1_HDMI
 
 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
