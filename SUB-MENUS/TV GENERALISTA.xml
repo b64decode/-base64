@@ -28,7 +28,6 @@
 
 <item>
 <title>[COLOR=red][B][I] RTP 1 [/I][/B][/COLOR] [COLOR=orange](WebTV)[/COLOR]</title>
-<link>rtmp://euro.mysoltv.com:1935/live/RTP1_HDMI</link>
 <link>http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 </item>
@@ -64,25 +63,13 @@
 </item>
 
 
-<item> 
-<title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR salmon](ZemTV)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT03OTg5&amp;mode=11&amp;name=Sic</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
 
 <item>
 <title>[COLOR=red][B][I] SIC [/I][/B][/COLOR]   [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://tvgente.in/watch/SIC-28-4</sportsdevil>
-
+<sportsdevil>http://tvgente.in/watch/SIC-28</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/SIC-28-2</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/SIC-28-3</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/SIC-28-5</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
 </item>
@@ -164,16 +151,11 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
 
+<sportsdevil>http://www.tvtuga.com/~tvi</sportsdevil>
+
 <sportsdevil>http://tvgente.in/watch/TVI-85-3</sportsdevil>
 
-<referer>http://ezcast.tv/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=red][B][I] TVI [/I][/B][/COLOR]  [COLOR=lime](SPORTS DEVIL)[/COLOR]</title>
-
-<sportsdevil>http://www.tvtuga.com/~tvi</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/TVI-85-5</sportsdevil>
 
 <referer>http://ezcast.tv/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
@@ -200,7 +182,7 @@ sublink:http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8#
 <title>[COLOR=red][B][I] TVI  [/I][/B][/COLOR]   [COLOR=orange](WebTV)[/COLOR]</title>
 
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
-
+<link>http://127.0.0.1:6878/ace/manifest.m3u8?id=0aad2cca90b9168f761d9a97fd59a6e25a1f523e&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
 
 </item>
