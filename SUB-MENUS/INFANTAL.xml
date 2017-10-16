@@ -96,7 +96,7 @@
 
 <item>
 <title>[COLOR yellow] [I] PANDA HD [/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
+<sportsdevil></sportsdevil>
 
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
@@ -109,13 +109,6 @@
 
 <link>http://bomba2017.hopto.org:8000/live/Ribeirao/Ribeirao/5530.m3u8 </link>
 
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/odisseiax/1/650/500</page>
-<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
 </item>
 
