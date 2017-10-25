@@ -80,14 +80,7 @@ sublink:rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR]  [COLOR=orange](SD+HD)[/COLOR]</title>
-<link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://painel.tvdigitalsbl.net:8081/live/netiptv344/344/666.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 
-</link>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1  [/I][/B][/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
@@ -110,7 +103,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item> 
 <title>[COLOR=blue][B][I] SPORT TV 1  [/I][/B][/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://sharecast.eu/embed/live1-rbi6c</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/sporttv1</sportsdevil>
 <referer>http://hdfree.tv/</referer>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
@@ -201,7 +194,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://www.tvfreesport.net/sport-tv-2-online-gratis/</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/sporttv2</sportsdevil>
 
 <referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -280,7 +273,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://www.tvfreesport.net/sport-tv-3-online-gratis/</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/sporttv3</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
@@ -332,7 +325,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 4  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://bigsports.me/live/stv4.php</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/sporttv4</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
@@ -444,7 +437,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://stream4.freehdsport.com/sporttv5.html</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/sporttv5</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
@@ -509,7 +502,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=benficatv</sportsdevil>
+<sportsdevil>http://www.bolatuga.com/channel/btv</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
