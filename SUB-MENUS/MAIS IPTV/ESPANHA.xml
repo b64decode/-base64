@@ -7,49 +7,12 @@
 <item>
 <title>[COLOR turquoise][B][I]LA 1[/I][/B][/COLOR]</title>
 <sportsdevil>http://latelete.tv/la-1-en-directo-gratis-por-internet-2/</sportsdevil>
-<link>http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8</link>
-<link>http://api.iptv.ink/pl.m3u8?ch=35452405</link>
+
 <thumbnail>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</thumbnail>
 <fanart>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</fanart>
  <thumbnail></thumbnail> 
 </item>
 
-
-<item>
-<title>[COLOR turquoise][B][I]LA 1[/I][/B][/COLOR]</title>
- <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
-<regex>
-<name>get-m3u8-decoded</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>get-m3u8-encoded</name>
-<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
-<page>$doregex[get-embed4]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
- 
-<regex>
-<name>get-embed4</name>
-<expres>iframe src="(.*?)"</expres>
-<page>$doregex[get-embed3]</page>
-<referer>http://cinestrenostv.tv</referer>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
- 
-<regex>
-<name>get-embed3</name>
-<expres>script type="text\/javascript" src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/emision/tve1.html</page>
-<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
-</regex>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</thumbnail>
-<fanart>http://img3.wikia.nocookie.net/__cb20100419080324/plasniskpedia/es/images/0/04/1.La_1.png</fanart>
- <thumbnail></thumbnail> 
-</item>
 
 
 
