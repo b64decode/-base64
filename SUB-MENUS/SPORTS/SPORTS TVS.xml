@@ -18,7 +18,7 @@
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR] </title>
 <link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
-<link>rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD</link>
+
 <referer>http://hdfree.tv/</referer>
 
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
@@ -138,12 +138,8 @@
   
   <item>
 <title>[COLOR=blue][B][I] SPORT TV 2 SD [/I][/B][/COLOR]</title>
-<link>
-sublink:http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8
-
-
-
-</link>
+<link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
