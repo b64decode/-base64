@@ -17,12 +17,10 @@
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR] </title>
-<link>
-sublink:http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8
-sublink:rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD
+<link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
+<link>rtmp://euro.mysoltv.com:1935/live/SPORT_TV1_HD</link>
+<referer>http://hdfree.tv/</referer>
 
-
-</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
