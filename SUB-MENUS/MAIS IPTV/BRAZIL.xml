@@ -1141,55 +1141,234 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<body bgcolor=”#000000” text=”#000000”>
-
-<script language="JavaScript1.2"> 
-//Disable select-text script (IE4+, NS6+)- By Andy Scott 
-//Exclusive permission granted to Dynamic Drive to feature script 
-//Visit http://www.dynamicdrive.com for this script 
-function disableselect(e){ 
-return false 
-} 
-
-function reEnable(){ 
-return true 
-} 
-
-//if IE4+ 
-document.onselectstart=new Function ("return false") 
-
-//if NS6 
-if (window.sidebar){ 
-document.onmousedown=disableselect 
-document.onclick=reEnable 
-} 
-</script> 
-
-<script>
-// Desabilitar o botão direito do mouse
-var DADrccolor = "#F1F1F1";
-var DADrcimage = "http://2.bp.blogspot.com/-Oz5ynB4C8y0/VKr5a-2kCtI/AAAAAAAA_40/l5pujz9klEs/s1600/n%C3%A3o%2B%C3%A9%2Bpermitido%2Bcopiar.png";
-</script>
-<script type="text/javascript" src="http://yourjavascript.com/2122535051/antirightclick.js"></script>                                                                                                                                                                                                                                                                                                                                           <item>
-<title>Space HD</title>
-<link>$doregex[getLink]|User-Agent=iPad</link>
+ 
+<item>
+<title>[COLOR=red][B][I] SIC SD [/I][/B][/COLOR]   </title>
+<link>$doregex[select_Url]</link>
 <regex>
-<name>getLink</name>
-<expres>file: '(.*?)',</expres>
-<page>http://pxstream.tv/embed_novos.php?file=98&amp;width=640&amp;height=470&amp;jwplayer=flash</page>
-<referer>http://tvonlinegratis1.com/player.php?id=98&width=600&height=384</referer>
-<cookieJar></cookieJar>
-<agent>iPad</agent>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
 </regex>
-<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/spacehd.png</thumbnail>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://vertv0800.com/player-videojs.html#id=AO1NTbuQ3cpxWehxGcvEmd1JHZuFWbvEmd1JHZuFWbv02bj5Sb0NndyNnLyYXb0NHQtVXatVmcQRESzlWYuF2QvNGblJ0LvoDc0RHa&logo=cmbw5ibvlGdjFWZul2YlxWZ09iY08WNuBDMkZ3LnJ3bucWbpR3cvBnL5M3LvoDc0RHa</page>
+<referer>http://www.tvgente.in/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEfeY-rNf0JSGpHGpGmNtd6PHsQ8BntZ8qWJkXGqlF9qoDimA</thumbnail>
+
+</regex>
 </item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 1   [/B] [/COLOR]</title>
+<sportsdevil>http://vertv0800.com/player-videojs.html#id=AO1NTbuQ3cpxWehxGcvEmd1JHZuFWbvEmd1JHZuFWbv02bj5Sb0NndyNnLyYXb0NHQtVXatVmcQRESzlWYuF2QvNGblJ0LvoDc0RHa&logo=cmbw5ibvlGdjFWZul2YlxWZ09iY08WNuBDMkZ3LnJ3bucWbpR3cvBnL5M3LvoDc0RHa</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEfeY-rNf0JSGpHGpGmNtd6PHsQ8BntZ8qWJkXGqlF9qoDimA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 1   [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEfeY-rNf0JSGpHGpGmNtd6PHsQ8BntZ8qWJkXGqlF9qoDimA</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 2   [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/Sportv-2-Brasil-105</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 2   [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 3  [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/Sportv-3-Brasil-106</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] Sportv 3  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=yellow] [B] ESPN Brasil  [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/ESPN-Brasil-112</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] ESPN Brasil  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=yellow] [B] FOX Sports  [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/FOX-Sports-Brasil-142</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/820311012511346689/iLPhUJPn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] FOX Sports  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/820311012511346689/iLPhUJPn.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=yellow] [B] FOX Sports 2 [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/FOX-Sports2-Brasil-143</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://elitedecosat.net/wp-content/uploads/2014/01/foxsports2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] FOX Sports 2 [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://elitedecosat.net/wp-content/uploads/2014/01/foxsports2.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR=yellow] [B] PFC  [/B] [/COLOR]</title>
+<sportsdevil>http://tvonlinegratis1.com/assistir-premiere-online-pfc-ao-vivo/</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://www.dicasvip.com/wp-content/uploads/2014/03/NARRACAO-PERSONALIZADA-NO-PFC.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] PFC  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://www.dicasvip.com/wp-content/uploads/2014/03/NARRACAO-PERSONALIZADA-NO-PFC.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=yellow] [B] TV Record  [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/TV-Record-99</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/TV-Record-99-2</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://cdn5.thr.com/sites/default/files/2012/08/record_logo_a_l.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] TV Record  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://cdn5.thr.com/sites/default/files/2012/08/record_logo_a_l.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=yellow] [B] Record News   [/B] [/COLOR]</title>
+<sportsdevil>http://www.cxtvlive.com/live-tv/record-news</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://3.bp.blogspot.com/_5G6w8QP4C9s/Sxr8951z2NI/AAAAAAAAG9Y/O1yV3BTu8ZI/s400/20070927020331_record_news1%5B1%5D.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B] Record News   [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>http://3.bp.blogspot.com/_5G6w8QP4C9s/Sxr8951z2NI/AAAAAAAAG9Y/O1yV3BTu8ZI/s400/20070927020331_record_news1%5B1%5D.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=yellow] [B] Globo    [/B] [/COLOR]</title>
+<sportsdevil>http://tvgente.in/watch/Globo-132-3</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao3</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao4</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao8</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-sp-hd-ao-vivo-gratis-online/#opcao7</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B]Globo [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=yellow] [B]  Globo News   [/B] [/COLOR]</title>
+<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao0</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao2</sportsdevil>
+<sportsdevil>http://tudotv.tv/assistir-globo-news-hd-ao-vivo-gratis-online/#opcao8</sportsdevil>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112011/globonews.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow] [B]  Globo News  [/B] [/COLOR]</title>
+<link></link>
+<referer>http://tvgente.in</referer>
+<fanart></fanart>
+<thumbnail>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112011/globonews.jpg</thumbnail>
+</item>
+
+
+
+
+
