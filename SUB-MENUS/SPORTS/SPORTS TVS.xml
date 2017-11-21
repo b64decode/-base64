@@ -72,7 +72,7 @@
 <regex>
 <name>getLink</name>
 <expres>videoLink = '(.*?)'</expres>
-<page>http://tvemportugal.xyz/sport-tv-1/</page>
+<page>http://baroyster.xyz/gen_br.php?id=31980&width=100%&height=100%?r1=http%3A%2F%2Ftvemportugal.xyz%2Fcombate%2F</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <cookieJar></cookieJar>
 </regex>
