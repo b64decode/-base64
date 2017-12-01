@@ -146,6 +146,28 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+	<page>http://tvtoss.net/pages/player.php?ch_id=87993697&ctd=1&t=Sports%20Channels</page>
+	<referer></referer>
+	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
+</regex>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
+
+
+
+
+
+
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2 TESTE [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
