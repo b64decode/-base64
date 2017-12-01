@@ -35,7 +35,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1746.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1745.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/675.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/abonnement2018/abonnement2018/1721.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/5525.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 
 </link>
@@ -550,7 +550,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/4276.ts&amp;name=BENFICA TV TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/abonnement2018/abonnement2018/1670.ts&amp;name=BENFICA TV TVsupertuga#(F4M)
 </link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
@@ -703,7 +703,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]SPORTING TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/682.ts&amp;name=SPORTING TV TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/abonnement2018/abonnement2018/1720.ts&amp;name=SPORTING TV TVsupertuga#(F4M)
 </link>
 <thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
 </item>
