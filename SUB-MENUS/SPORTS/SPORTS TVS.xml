@@ -15,6 +15,13 @@
 </item>
 
 
+<item>
+<title>[COLOR blue] [I]SPORT TV +[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1744.ts&amp;name=SPORT TV + TVsupertuga#(F4M)
+</link>
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
+</item>
 
 
 
@@ -23,8 +30,17 @@
 
 
 
+<item>
+<title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1746.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1745.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/675.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/5525.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 
-
+</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 
 
 
@@ -120,7 +136,15 @@
   
   
   
-  
+  <item>
+<title>[COLOR blue] [I]SPORT TV 2[/I] [/COLOR]   [COLOR=orange](FULL HD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1748.ts&amp;name=SPORT TV 2 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1747.ts&amp;name=SPORT TV 2 TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
   
   
   
@@ -130,7 +154,7 @@
 <title>[COLOR=blue][B][I] SPORT TV 2 SD [/I][/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
 
@@ -220,6 +244,25 @@
   
   
   
+  
+  
+  
+  
+  
+    
+  <item>
+<title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]   [COLOR=orange](FULL HD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1750.ts&amp;name=SPORT TV 3 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1749.ts&amp;name=SPORT TV 3 TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+  
+  
+  
+  
+  
     <item>
 <title>[COLOR=blue][B][I] SPORT TV 3 SD [/I][/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8</link>
@@ -228,11 +271,6 @@
 </item>
 
   
- 
-  
-  
-  
- 
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
@@ -303,6 +341,24 @@
 
 
 
+
+
+
+
+
+  <item>
+<title>[COLOR blue] [I]SPORT TV 4[/I] [/COLOR]   [COLOR=orange](FULL HD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1752.ts&amp;name=SPORT TV 4 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1751.ts&amp;name=SPORT TV 4 TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+  
+
+
+
+
   
     <item>
 <title>[COLOR=blue][B][I] SPORT TV 4 SD [/I][/B][/COLOR]</title>
@@ -310,11 +366,6 @@
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
-
-  
-
-
-
 
 
 
@@ -330,7 +381,7 @@
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://tvgente.in/watch/Sporttv4-139-2</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/BTV-78-2</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
@@ -369,6 +420,15 @@
 
 
 
+  <item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]   [COLOR=orange](FULL HD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1754.ts&amp;name=SPORT TV 5 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1753.ts&amp;name=SPORT TV 5 TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+</item>
+  
 
 
 
@@ -487,9 +547,32 @@
 
 
 
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/4276.ts&amp;name=BENFICA TV TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
 
 
-  
+
+
+
+    <item>
+<title>[COLOR=blue][B][I] BENFICA TV SD [/I][/B][/COLOR]</title>
+<link>http://185.80.220.79:15214/streamM/9DOXhIxxsw.stream/playlist.m3u8</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
+    <item>
+<title>[COLOR=blue][B][I] BENFICA TV SD [/I][/B][/COLOR]</title>
+<link>http://77.54.249.189:9981/stream/channelid/1944776669?ticket=3BABBB090AFE0D3388578B528F2796F84611B73D&profile=pass</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
 
 
 
@@ -507,23 +590,7 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-	<regex>
-		<name>ip</name>
-		<expres>redirect=(.*)</expres>
-		<page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
-	</regex>
-	<regex>
-		<name>m3u8</name>
-		<expres>ea \+ "(.*?)"</expres>
-		<page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page>
-		<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-		<referer>http://www.mips.tv</referer>
-		</regex>
-</item>
+
 
 
 <item>
@@ -536,9 +603,9 @@
 
 
 <item>
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/BTV-78-4</sportsdevil>
 
-<sportsdevil>http://www.bolatuga.com/channel/btv</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
@@ -546,11 +613,22 @@
 
 <item>
 <title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://www.tvtuga.com/benfica-tv/</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/BTV-78-3</sportsdevil>
 
-<referer>http://www.sporttvsonline.com</referer>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]     [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+
+<sportsdevil>http://desportogratis.net/canal-sporttv4.html</sportsdevil>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+
 
 <item>
 <title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
@@ -572,20 +650,16 @@
 </item>
 
 
+
+
+
 <item>
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
-<link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1670.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/56.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/57.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.iptvpro.biz:5500/live/dias/dias/58.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-</link>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+<title>[COLOR=blue][B][I] PORTO CANAL [/I][/B][/COLOR]   [COLOR=orange](SD)[/COLOR]</title>
+
+<link>http://213.13.26.11:1935/live/portocanal/jn.m3u8?isnpLk=10&rebase=on</link>
+
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
-
-
-
-
 
 
 <item>
@@ -596,30 +670,46 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
 
+
+
 <item>
-<title>[COLOR=blue][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=red](WebTV)[/COLOR]</title>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 timeout=10</link>
-</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
+<title>[COLOR blue] [I]PORTO CANAL[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/Porto-Canal-30</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
-</regex>
 </item>
 
 <item>
 <title>[COLOR blue] [I]PORTO CANAL[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://www.sporttvonlinehd.net/index.php?canal=portocanal</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/Porto-Canal-30-2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR blue] [I]PORTO CANAL[/I] [/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/Porto-Canal-30-3</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue] [I]SPORTING TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/682.ts&amp;name=SPORTING TV TVsupertuga#(F4M)
+</link>
+<thumbnail>http://s20.postimg.org/j0p0j7nst/sporting_tv_pt.png</thumbnail>
+</item>
+
+
+
 
 
 
