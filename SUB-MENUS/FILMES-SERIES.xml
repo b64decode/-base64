@@ -1,10 +1,5 @@
 
-<item> 
-<title>[COLOR magenta][B][I] AXN BLACK [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDEy&amp;mode=11&amp;name=Axn+black</jsonrpc>
-<thumbnail>http://www.magazine-hd.com/apps/wp/wp-content/uploads/2016/02/axn-black-cinema.jpg</thumbnail>
-</item>
+
 
 <item> 
 <title>[COLOR magenta][B][I] AXN HD [/I][/B][/COLOR]</title>
@@ -56,17 +51,6 @@
 
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axnmagentahd.png</thumbnail>
-</item>
-
-
-
-
-
-<item> 
-<title>[COLOR magenta][B][I] AXN WHITE [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDEx&amp;mode=11&amp;name=Axn+white</jsonrpc>
-<thumbnail>http://infocul.pt/wp-content/uploads/2016/02/AXN_White_final_logo_GENERAL_3D_GLASSY_X_1_v3.jpg</thumbnail>
 </item>
 
 
@@ -143,12 +127,6 @@
 
 
 
-<item> 
-<title>[COLOR magenta][B][I] FOX MOVIES [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAx&amp;mode=11&amp;name=Fox+movies</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
-</item>
 
 
 
@@ -178,12 +156,6 @@
 </item>
 
 
-<item> 
-<title>[COLOR magenta][B][I] FOX CRIME [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAz&amp;mode=11&amp;name=Fox+crime</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
-</item>
 
 
 
@@ -303,7 +275,7 @@
 
 
 <item>
-<title>[COLOR blue] [I]TV CINE 1[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<title>[COLOR magenta] [I]TV CINE 1[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1719.ts&amp;name=TV CINE 1 TVsupertuga#(F4M)
 </link>
@@ -326,7 +298,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]TV CINE 2[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<title>[COLOR magenta] [I]TV CINE 2[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1720.ts&amp;name=TV CINE 2 TVsupertuga#(F4M)
 </link>
@@ -347,7 +319,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]TV CINE 3[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<title>[COLOR magenta] [I]TV CINE 3[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1721.ts&amp;name=TV CINE 3 TVsupertuga#(F4M)
 </link>
@@ -365,7 +337,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 
 <item>
-<title>[COLOR blue] [I]TV CINE 4[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<title>[COLOR magenta] [I]TV CINE 4[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1722.ts&amp;name=TV CINE 4 TVsupertuga#(F4M)
 </link>
