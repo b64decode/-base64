@@ -184,13 +184,6 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
 </item>
 
-<item> 
-<title>[COLOR magenta][B][I] FOX LIFE [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDAy&amp;mode=11&amp;name=Fox+life</jsonrpc>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
-</item>
-
 
 
 
@@ -219,12 +212,7 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxlife.png</thumbnail>
 </item>
 
-<item> 
-<title>[COLOR magenta][B][I] FOX COMEDY [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA0&amp;mode=11&amp;name=Fox+comedy</jsonrpc>
-<thumbnail>https://portaldosprogramas.com/wp-content/uploads/2015/11/FOX-Comedy.jpg</thumbnail>
-</item>
+
 
 
 
@@ -369,12 +357,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
 
-<item> 
-<title>[COLOR magenta][B][I] CINEMUNDO [/I][/B][/COLOR]   [COLOR salmon](ZemTV-Shani)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDo1MT04MDA3&amp;mode=11&amp;name=Cine+mundo</jsonrpc>
-<thumbnail>http://www.cinemundo.net.br/wp-content/uploads/2015/02/logo1.png</thumbnail>
-</item>
+
 
 
 <item>
