@@ -1,5 +1,26 @@
 
 
+<item>
+<title>[COLOR blue] [I]EIR SPORT 2[/I] [/COLOR]   [COLOR=orange]PLEXUS Acestream[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=0cec6c0299c99f45c1859398d150c3a48e6d8b2e&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
+sublink:plugin://program.plexus/?url=80db01059a22a7955ab10c583577397ba830c639&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
+sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
+</link>
+<thumbnail>https://ulango.tv/uploads/channels/3780342/logo_eir%20sport%201.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
 <item> 
 <title>[COLOR=blue][I] SPORT TV 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
 <link>plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mode=1&amp;name=SPORT TV 1</link>
