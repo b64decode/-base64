@@ -55,7 +55,14 @@
 </regex>
 </item>
  
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 1  [/I][/B][/COLOR]    [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
+<sportsdevil>http://desportogratis.net/canal-sporttv.html</sportsdevil>
+
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
 
 
 
@@ -147,39 +154,15 @@
 </item>
 
 
-
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>file: "([^\"].*)"</expres>
-	<page>http://tvtoss.net/pages/player.php?ch_id=87993697&ctd=1&t=Sports%20Channels</page>
-	<referer></referer>
-	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
-</regex>
-<fanart></fanart>
+<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://desportogratis.net/canal-sporttv2.html</sportsdevil>
+
+
+<referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
-
-
-
-
-
-
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 2 TESTE [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://tvtoss.net/pages/player.php?ch_id=87993697&ctd=1&t=Sports%20Channels</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
@@ -205,7 +188,7 @@
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://www.bolatuga.com/channel/sporttv2</sportsdevil>
+<sportsdevil>http://latelete.tv/ver-sport-tv-2-online-em-directo/</sportsdevil>
 
 <referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
@@ -233,15 +216,19 @@
 
   
   
- <item> 
-<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]  [COLOR salmon](ZemTV)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDozNj03Njkw&amp;mode=11&amp;name=Sports+tv+3</jsonrpc>
+  
+  
+  
+  
+    <item>
+<title>[COLOR=blue][B][I] SPORT TV 3 SD [/I][/B][/COLOR]</title>
+<link>http://185.80.220.79:15214/streamM/0a6vDa0OYU.stream/playlist.m3u8</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item> 
+</item>
+
   
-  
-  
+ 
   
   
   
@@ -260,18 +247,7 @@
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/Sport3PT.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item>
+
 
 
 <item>
@@ -282,9 +258,21 @@
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://www.bolatuga.com/channel/sporttv3</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/Sporttv3-75-3</sportsdevil>
+
+<referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 3  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://latelete.tv/ver-sport-tv-3-online-em-directo/</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/3/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
@@ -312,73 +300,99 @@
 
 
 
+
+
+
+  
+    <item>
+<title>[COLOR=blue][B][I] SPORT TV 4 SD [/I][/B][/COLOR]</title>
+<link>http://185.80.220.79:15214/streamM/0tkVGgd2jl.stream/playlist.m3u8</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+
+  
+
+
+
+
+
+
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 4  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/Sport4PT.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/Sporttv4-139-2</sportsdevil>
+
+<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://tvgente.in/watch/Sporttv4-139-2</sportsdevil>
+
+<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://tvgente.in/watch/Sporttv4-139</sportsdevil>
+<sportsdevil>http://desportogratis.net/canal-sporttv4.html</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
+
+
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 4  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-<sportsdevil>http://www.bolatuga.com/channel/sporttv4</sportsdevil>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://nowwatchtvlive.net/sport-tv4-em-direto-gratis-sport-tv-4-portugal-live-stream-online/</sportsdevil>
 
 <referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
-  
- <item> 
-<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]  [COLOR salmon](ZemTV)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDozNj03Njky&amp;mode=11&amp;name=Sports+tv+5</jsonrpc>
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-</item> 
-  
-  
-
-
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/Sport5PT.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR=blue][B][I] SPORT TV 4 [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://nowwatchtvlive.net/channel-tab-frame/sporttv4hd-3.php</sportsdevil>
+
+<referer>http://www.thefeed2all.eu/watch/408917/4/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+<title>[COLOR=blue][B][I] SPORT TV 5 SD [/I][/B][/COLOR]</title>
+<link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
-<link>$doregex[m3u8]</link>
-<regex>
-	<name>m3u8</name>
-	<expres>file: "([^\"].*)"</expres>
-<page>http://sharecast.eu/embed/merda4-rp4un</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
+
+    <item>
+<title>[COLOR=blue][B][I] SPORT TV 5 SD [/I][/B][/COLOR]</title>
+<link>rtmp://185.80.220.79:15214/streamM/xZxIbGC9NR.stream</link>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
+  
+
 
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 5  [/I][/B][/COLOR]    [COLOR=red](WebTV)[/COLOR]</title>
@@ -390,6 +404,14 @@
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://latelete.tv/ver-sport-tv-5-online-em-directo/</sportsdevil>
+
+<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
@@ -417,12 +439,18 @@
 <item>
 <title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
-<sportsdevil>http://tvgente.in/watch/Sporttv5-76-3</sportsdevil>
+<sportsdevil>http://tvgente.in/watch/Sporttv5-76-4</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
 
+<sportsdevil>http://tvgente.in/watch/Sporttv5-76-5</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
+</item>
 
 
 <item>
@@ -445,25 +473,22 @@
 </item>
 
 
-<item>
-<title>[COLOR blue] [I]SPORT TV 5[/I] [/COLOR]  [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
-
-<sportsdevil>http://www.bolatuga.com/channel/sporttv5</sportsdevil>
-<referer>http://www.idimsports.eu/watch/408917/5/watch-xonetv.html</referer>
-<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
-</item>
 
 
 
 
-  
- <item> 
-<title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]    [COLOR salmon](ZemTV)[/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZmFzdDozNj03ODAz&amp;mode=11&amp;name=Benfica+tv</jsonrpc>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item> 
-  
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
