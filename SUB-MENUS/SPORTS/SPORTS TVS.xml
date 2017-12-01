@@ -110,6 +110,15 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <item>
 <title>[COLOR=blue][B][I] SPORT TV 2 SD [/I][/B][/COLOR]</title>
 <link>http://185.80.220.79:15214/streamM/xZxIbGC9NR.stream/playlist.m3u8</link>
@@ -138,12 +147,12 @@
 </item>
 
 <item>
-<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
+<title>[COLOR=blue][B][I] SPORT TV 2 TESTE [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
 <link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
 <regex>
 <name>getLink</name>
 <expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/Sport2PT.html</page>
+<page>http://tvtoss.net/pages/player.php?ch_id=87993697&ctd=1&t=Sports%20Channels</page>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 <cookieJar></cookieJar>
 </regex>
