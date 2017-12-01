@@ -51,14 +51,14 @@
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://tvtoss.net/pages/player.php?ch_id=1503061877&ctd=1&t=Sports%20Channels</page>
+<page>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent></agent>
 </regex>
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://latelete.tv/ver-sport-tv-1-online-em-directo/</page>
+<page>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
 </regex>
