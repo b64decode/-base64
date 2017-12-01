@@ -18,12 +18,9 @@ sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&am
 
 
 
-
-
-
 <item> 
 <title>[COLOR=blue][I] SPORT TV 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
-<link>plugin://program.plexus/?url=c39db61fd585ebfa446983d0af9d9d637df9678c&amp;mode=1&amp;name=SPORT TV 1</link>
+<link>plugin://program.plexus/?url=5b3eeb9fbaf79acc1522e00c45d9527a338fbac6&amp;mode=1&amp;name=SPORT TV 1</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv1.png</thumbnail>
 </item>
 
