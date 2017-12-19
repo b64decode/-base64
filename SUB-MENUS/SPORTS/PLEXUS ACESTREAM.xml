@@ -1,22 +1,5 @@
 
 
-<item>
-<title>[COLOR blue] [I]EIR SPORT 2[/I] [/COLOR]   [COLOR=orange]PLEXUS Acestream[/COLOR]</title>
-<link>
-sublink:plugin://program.plexus/?url=0cec6c0299c99f45c1859398d150c3a48e6d8b2e&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
-sublink:plugin://program.plexus/?url=80db01059a22a7955ab10c583577397ba830c639&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
-sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&amp;mode=1&amp;name=SPORT TV 1#(Acestream)
-</link>
-<thumbnail>https://ulango.tv/uploads/channels/3780342/logo_eir%20sport%201.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
 
 <item> 
 <title>[COLOR=blue][I] SPORT TV 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
@@ -74,6 +57,59 @@ sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&am
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
 </item>
 
+
+<item>
+<title>[COLOR=blue][I] BT SPORT 1 UK  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd&amp;mode=1&amp;name=BT SPORT 1 UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] BT SPORT 2 UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=33b428a9cec1d7d2cd2809d8e49a687e167378a6&amp;mode=1&amp;name=BT SPORT 2 UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][I] BT SPORT 3 UK[/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=66ce42b59cd7028be149ee7e7ca17066910b2db3&amp;mode=1&amp;name=BT SPORT 3 UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][I] BT SPORT ESPN UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=c880ed219ebc35a1a9ab59fe12260c59b25ab406&amp;mode=1&amp;name=BT SPORT ESPN UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/BT-Sport-Europe.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]EIR SPORT 1[/I] [/COLOR]   [COLOR=orange]PLEXUS Acestream[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=75703cf02401ba8a402c77989bfaaf3895cb12ea&amp;mode=1&amp;name=EIR SPORT 1#(Acestream)
+
+</link>
+<thumbnail>https://ulango.tv/uploads/channels/3780342/logo_eir%20sport%201.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]EIR SPORT 2[/I] [/COLOR]   [COLOR=orange]PLEXUS Acestream[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=0cec6c0299c99f45c1859398d150c3a48e6d8b2e&amp;mode=1&amp;name=EIR SPORT 2#(Acestream)
+sublink:plugin://program.plexus/?url=80db01059a22a7955ab10c583577397ba830c639&amp;mode=1&amp;name=EIR SPORT 2#(Acestream)
+sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&amp;mode=1&amp;name=EIR SPORT 2#(Acestream)
+</link>
+<thumbnail>https://ulango.tv/uploads/channels/3780342/logo_eir%20sport%201.png</thumbnail>
+</item>
+
+
+
+
+
+
+
 <item>
 <title>[COLOR=blue][I] C MORE TENNIS [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
 <link>plugin://program.plexus/?url=1328e97497116ef4dc90bc0eee91d88480a81b72&amp;mode=1&amp;name=C MORE TENNIS</link>
@@ -124,7 +160,7 @@ sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&am
 
 <item>
 <title>[COLOR=blue][I] PREMIER SPORTS [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
-<link>plugin://program.plexus/?url=3679ef19d27763ab671159036927fe3ff077e865&amp;mode=1&amp;name=PREMIER SPORTS</link>
+<link>plugin://program.plexus/?url=e4d9f7188e4403523c32717a98093671f8931101&amp;mode=1&amp;name=PREMIER SPORTS</link>
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Premier-Sports.png</thumbnail>
 </item>
 
@@ -189,6 +225,63 @@ sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&am
 
 
 
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS MAIN EVENT UK  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb&amp;mode=1&amp;name=SKY SPORTS MAIN EVENT UK </link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS CRICKEt UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=bd58392b1180b79c50439bd8beb051ea1d56fa38&amp;mode=1&amp;name=SKY SPORTS CRICKEt UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS ACTION UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=88ed3eb027715170bbc30d6e6278401917901c2c&amp;mode=1&amp;name=SKY SPORTS ACTION UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS GOLF UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=7f0f325c3eafce8bfedfc43a9ddb13f063bf0879&amp;mode=1&amp;name=SKY SPORTS GOLF UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS PREMER LEAGUE UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=bd90b972fafedec4211b18b6c34a5c2253ae94de&amp;mode=1&amp;name=SKY SPORTS PREMER LEAGUE UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS FOOTBALL UK  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=9eba690be925a98e8aecfc758070b874e19260c6&amp;mode=1&amp;name=SKY SPORTS FOOTBALL UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS ARENA UK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=1c14883164419285b005a7f96d502489e80b8dc4&amp;mode=1&amp;name=SKY SPORTS ARENA UK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][I] SKY SPORTS F1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=fd931cb7b45614de6ee10eea838098892dd8a5de&amp;mode=1&amp;name=SKY SPORTS 3</link>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR=blue][I] SKY SPORTS 3 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
 <link>plugin://program.plexus/?url=4dbce55abecd154ff71b3477a332bd63611309e5&amp;mode=1&amp;name=SKY SPORTS 3</link>
@@ -202,11 +295,67 @@ sublink:plugin://program.plexus/?url=01ced62d331aba6e79dc4a30fce17d293450e8dc&am
 <thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
 </item>
 
+
 <item>
-<title>[COLOR=blue][I] SKY SPORTS F1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
-<link>plugin://program.plexus/?url=2288397a21c4933d2359f19f54daa4101e297a48&amp;mode=1&amp;name=SKY SPORTS 3</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-F1-Logo.png</thumbnail>
+<title>[COLOR=blue][I] SETANTA SPORTS 1 [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=7c02814084b8eb0e3fc5a9093fccf1d8f3999d55&amp;mode=1&amp;name=SETANTA SPORTS 1</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
 </item>
+
+
+<item>
+<title>[COLOR=blue][I] SETANTA EURASIA [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=00df92eb9e2594f9c778adabbc2f26a85277c4d4&amp;mode=1&amp;name=SETANTA EURASIA</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=blue][I] RACING [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=6326e6d9072a6c89c34635c399c40c847838f912&amp;mode=1&amp;name=RACING</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] NBA HD [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=435b481700ca9a87336285c828d292a0bbe23739&amp;mode=1&amp;name=NBA HD</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=blue][I] WWE NETWORK [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>
+<link>plugin://program.plexus/?url=2999a870ac53f3c123e723167dca0e8baff21def&amp;mode=1&amp;name=WWE NETWORK</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Sky-Sports-4-HD.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <item>
 <title>[COLOR=blue][I] SPORT 1 CZ  [/I][/COLOR][COLOR=red] PLEXUS Acestream[/COLOR]</title>

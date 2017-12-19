@@ -33,10 +33,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1746.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1745.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/abonnement2018/abonnement2018/1721.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://geantiptv.ddns.net:61555/live/ermo/ermo/5525.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1545.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+
 
 </link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
@@ -253,8 +251,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
   <item>
 <title>[COLOR blue] [I]SPORT TV 3[/I] [/COLOR]   [COLOR=orange](FULL HD+HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1750.ts&amp;name=SPORT TV 3 TVsupertuga#(F4M)
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/test3/test3/1749.ts&amp;name=SPORT TV 3 TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1547.ts&amp;name=SPORT TV 3 TVsupertuga#(F4M)
+
 </link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
@@ -550,7 +548,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR blue] [I]BENFICA TV[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/abonnement2018/abonnement2018/1670.ts&amp;name=BENFICA TV TVsupertuga#(F4M)
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1719.ts&amp;name=BENFICA TV TVsupertuga#(F4M)
 </link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
@@ -655,7 +653,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 
 <item>
 <title>[COLOR=blue][B][I] PORTO CANAL [/I][/B][/COLOR]   [COLOR=orange](SD)[/COLOR]</title>
-
+<link>http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1721.ts</link>
 <link>http://213.13.26.11:1935/live/portocanal/jn.m3u8?isnpLk=10&rebase=on</link>
 
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
