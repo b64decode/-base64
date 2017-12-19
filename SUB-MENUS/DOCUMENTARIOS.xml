@@ -65,7 +65,15 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR orange] [I]NATIONAL GEOGRAPHIC[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1539.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 
+
+</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</item>
 
 <item> 
 <title>[COLOR=orange][B][I] NATIONAL GEOGRAPHIC [/I][/B][/COLOR][COLOR=lime](WebTV)[/COLOR]</title>

@@ -90,6 +90,15 @@
 <thumbnail>https://s20.postimg.org/kix47j1dp/AMC_2013.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR magenta] [I]FOX[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1537.ts&amp;name=FOX TVsupertuga#(F4M)
+
+
+</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</item>
 
 <item> 
 <title>[COLOR magenta][B][I] FOX HD [/I][/B][/COLOR] </title>
@@ -213,7 +222,15 @@
 </item>
 
 
+<item>
+<title>[COLOR magenta] [I]HOLLYWOOD[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
+<link>
+sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://universeiptv.com:8000/live/alexaiptv/mjsdf95gyfu/1536.ts&amp;name=HOLLYWOOD TVsupertuga#(F4M)
 
+
+</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
+</item>
 
 
 <item> 
