@@ -237,10 +237,29 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 </item>
 
   
+  <item>
+<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]  [COLOR=red](WebTV)[/COLOR]</title>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: "([^\"].*)"</expres>
+	<page>http://nowwatchtvlive.net/channel-tab-frame/sporttv2hd-3.php</page>
+	<referer></referer>
+	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36</agent>
+</regex>
+<fanart></fanart>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
   
   
-  
-  
+<item>
+<title>[COLOR=blue][B][I] SPORT TV 2  [/I][/B][/COLOR]   [COLOR lime](SPORTS DEVIL)[/COLOR] </title>
+<sportsdevil>http://nowwatchtvlive.net/channel-tab-frame/sporttv2hd-3.php</sportsdevil>
+
+<referer>http://hdfree.tv/</referer>
+<referer>http://www.idimsports.eu/watch/408917/2/watch-xonetv.html</referer>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>  
   
   
   
