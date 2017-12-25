@@ -33,8 +33,8 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=.......
 <item>
 <title>[COLOR blue] [I]SPORT TV 1[/I] [/COLOR]   [COLOR=orange](SD+HD)[/COLOR]</title>
 <link>
-sublink:http://185.26.174.67:12345/play/a01j
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.26.174.67:12345/play/a01j&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+sublink:http://185.26.174.67:12345/play/a01j&amp;name=SPORT TV 1 TVsupertuga#(F4M)
+
 sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.36.103:8000/live/buyiptv/iptvgold.com/1533.ts&amp;name=SPORT TV 1 TVsupertuga#(F4M)
 
 
@@ -47,7 +47,7 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
 <item>
 <title>[COLOR=blue][B][I] SPORT TV 1 SD [/I][/B][/COLOR] </title>
 <link>http://185.80.220.79:15214/streamM/CLANGj2Xof.stream/playlist.m3u8</link>
-<link>http://185.26.174.67:12345/play/a01j</link>
+
 
 <referer>http://hdfree.tv/</referer>
 
